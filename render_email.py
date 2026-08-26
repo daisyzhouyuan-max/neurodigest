@@ -37,6 +37,18 @@ SECTION_META = {
 
 PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 
+# Schematics for the top papers, keyed by DOI. Hosted from the repo rather than
+# base64-inlined: mail clients load them fine and the message stays small.
+FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
+            "neurodigest/main/figures/")
+FIGURES = {
+    "10.1038/s41591-026-04608-y": "fig1-oligodendrocyte.png",
+    "10.1038/s41467-026-75895-9": "fig2-abeta.png",
+    "10.1073/pnas.2614164123":    "fig3-macaque.png",
+    "10.1002/alz.71765":          "fig4-aria.png",
+    "10.1038/s41467-026-75850-8": "fig5-ttr.png",
+}
+
 
 def md_inline(text):
     """Convert the inline markdown the digest actually uses."""
@@ -179,6 +191,18 @@ def render_paper(paper, number=None):
             f'color:{INK}">{md_inline(value)}</div></div>'
         )
 
+    fig = ""
+    doi = (paper.get("link") or "").replace("https://doi.org/", "")
+    if doi in FIGURES:
+        fig = (
+            f'<div style="margin:4px 0 14px"><img src="{FIG_BASE}{FIGURES[doi]}" '
+            f'width="100%" style="width:100%;max-width:100%;height:auto;display:block;'
+            f'border:1px solid {border};border-radius:5px" alt="Schematic of the main '
+            f'finding"><div style="font-size:10.5px;color:{FAINT};margin:5px 0 0">'
+            f'Schematic drawn from the reported findings — not a figure from the paper.'
+            f'</div></div>'
+        )
+
     link = ""
     if paper.get("link"):
         url = html.escape(paper["link"], quote=True)
@@ -193,7 +217,7 @@ def render_paper(paper, number=None):
         f'style="border-collapse:separate;margin:0 0 16px"><tr><td '
         f'style="background:{bg};border:1px solid {border};border-radius:7px;'
         f'padding:20px 22px;font-family:{SANS}">{head}{title}{render_byline(paper["byline"])}'
-        f'{body}{link}</td></tr></table>'
+        f'{fig}{body}{link}</td></tr></table>'
     )
 
 
