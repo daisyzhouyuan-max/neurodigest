@@ -1,0 +1,4 @@
+# Intermediate fetch output — regenerated on every run
+candidates.json
+__pycache__/
+*.pyc

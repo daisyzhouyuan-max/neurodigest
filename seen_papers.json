@@ -1,0 +1,170 @@
+{
+  "papers": [
+    {
+      "doi": "10.1038/s41591-026-04608-y",
+      "pmid": "42642661",
+      "title": "Oligodendrocyte dysfunction in human age-related cognitive decline.",
+      "journal": "Nat Med",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-75895-9",
+      "pmid": "42637746",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1073/pnas.2614164123",
+      "pmid": "42640802",
+      "title": "Loss of neuronal population organization links pathology to behavior in a model of Alzheimer's disease.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71765",
+      "pmid": "42642841",
+      "title": "APOE-guided lecanemab dosing dissociates ARIA-E from ARIA-H: The K-ROAD study.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-75850-8",
+      "pmid": "42642419",
+      "title": "Cryo-EM structures of biopsy-derived TTR fibrils in hereditary transthyretin amyloidosis.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02413-x",
+      "pmid": "42642653",
+      "title": "Social isolation recruits amygdala-medial prefrontal cortex projections to escalate alcohol drinking in male mice.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02412-y",
+      "pmid": "42637923",
+      "title": "Motor neurons organize Drosophila feeding sequences via a disinhibitory cascade.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.07.039",
+      "pmid": "42641604",
+      "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue.",
+      "journal": "Cell",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02426-6",
+      "pmid": "42637925",
+      "title": "Roles of autophagy in brain homeostasis and disease.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02411-z",
+      "pmid": "42637924",
+      "title": "Lack of sensorimotor toxicity when using the clinical SMN expression cassette in scAAV9.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71785",
+      "pmid": "42639646",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71786",
+      "pmid": "42639643",
+      "title": "Factors associated with intracerebral hemorrhage in confirmed cerebral amyloid angiopathy.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1073/pnas.2606900123",
+      "pmid": "42640795",
+      "title": "Ank3 loss in adult forebrain excitatory neurons disrupts behavior, neuronal activity, membrane proteome, and myelination.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78319",
+      "pmid": "42638126",
+      "title": "Accelerated Brain Atrophy in Epilepsy: A Prospective Population-Based Study.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71708",
+      "pmid": "42639919",
+      "title": "When treatment becomes risk: polypharmacy and inappropriate prescribing in cognitive impairment in 2379 consecutive patients from a memory clinic.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.08.21.746168",
+      "pmid": null,
+      "title": "Breakdown in the synaptic vesicle cycle defines early and reversible cortical pathogenesis in ALS",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.1101/2025.05.14.653914",
+      "pmid": null,
+      "title": "Synaptic endocytic failure drives dopamine deficiency and protein transfer-mediated striatal dopamine-like neuron compensation",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.22.746439",
+      "pmid": null,
+      "title": "Cell type-resolved chromatin accessibility clocks for brain aging",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.20.745782",
+      "pmid": null,
+      "title": "An Epigenetic Signature of Vulnerable Neurons is Under Selective Pressure Associated with Longevity Across Placental Mammals.",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.20.746036",
+      "pmid": null,
+      "title": "Chronic trazodone treatment consolidates sleep, improves memory, and reduces amyloid pathology in a mouse model of Alzheimer's disease",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    }
+  ],
+  "last_updated": "2026-08-26"
+}
