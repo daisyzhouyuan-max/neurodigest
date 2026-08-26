@@ -2,3 +2,4 @@
 candidates.json
 __pycache__/
 *.pyc
+figures/*.html
