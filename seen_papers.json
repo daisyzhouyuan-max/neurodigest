@@ -164,6 +164,139 @@
       "server": "biorxiv",
       "date_reported": "2026-08-26",
       "section": "preprint"
+    },
+    {
+      "doi": "10.1126/scitranslmed.ady0403",
+      "pmid": "42647595",
+      "title": "Antibodies against MLC1 found in patients with NMOSD-like disease mediate astrocytopathy in rodent models.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1073/pnas.2612369123",
+      "pmid": "42647119",
+      "title": "Aging limits neuronal regeneration from glia in the mouse retina.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03060-z",
+      "pmid": "42645584",
+      "title": "Distinctive properties of the prion protein in the brain and retina in the amyloidosis associated with the PRNP F198S mutation.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71679",
+      "pmid": "42644405",
+      "title": "Hormone replacement therapy and dementia risk among postmenopausal women: Identifying responsive subgroups in the UK Biobank.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218519",
+      "pmid": "42647766",
+      "title": "EOAD-Signature Atrophy Predicts Dementia in Early-Onset MCI due to Alzheimer Disease: An MRI-Based Prognostic Biomarker.",
+      "journal": "Neurology",
+      "date_reported": "2026-08-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/scitranslmed.ady7616",
+      "pmid": "42647598",
+      "title": "A 3D human retina model reveals a non-cell-autonomous and non-neuronal mechanism of photoreceptor loss in a lysosomal storage disorder.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-08-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/sciadv.aed0049",
+      "pmid": "42647628",
+      "title": "An axon-intrinsic loop restricts nerve regeneration through axonal protein synthesis.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71757",
+      "pmid": "42644421",
+      "title": "Elucidating the neuropathological and molecular heterogeneity of amyloid beta and tau in Alzheimer's disease through machine learning and transcriptomic integration.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71651",
+      "pmid": "42638617",
+      "title": "Longitudinal effects of physical activity on sleep in association with hippocampal-amygdala subfield structure and functional connectivity in Alzheimer's disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71775",
+      "pmid": "42638620",
+      "title": "Identification of chemicals targeting dementia genes and pathways in the Comparative Toxicogenomics Database.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218482",
+      "pmid": "42647788",
+      "title": "De-Escalating and Discontinuing Immunotherapies in Patients With NMOSD and MOGAD.",
+      "journal": "Neurology",
+      "date_reported": "2026-08-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.08.21.743990",
+      "pmid": null,
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.24.746572",
+      "pmid": null,
+      "title": "Context-dependent regulatory networks connect Alzheimer's disease genetics to microglial inflammatory responses",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.21.746138",
+      "pmid": null,
+      "title": "Development and validation of highly selective monoclonal antibodies for the detection of huntingtin neoepitopes",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.21.746199",
+      "pmid": null,
+      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.20.26360021",
+      "pmid": null,
+      "title": "Movement-responsive deep brain stimulation reinforces motor circuits in Parkinson's disease",
+      "journal": "medrxiv",
+      "server": "medrxiv",
+      "date_reported": "2026-08-26",
+      "section": "preprint"
     }
   ],
   "last_updated": "2026-08-26"
