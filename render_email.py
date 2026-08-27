@@ -28,7 +28,9 @@ SERIF = "Georgia,'Iowan Old Style','Times New Roman',serif"
 
 # Section heading -> (display label, accent treatment)
 SECTION_META = {
-    "TOP PAPERS TODAY": ("Top papers today", "The five worth reading first"),
+    # The subtitle here is a format string filled with the section's own paper
+    # count — the section carries 3-5 papers, so it must not be hardcoded.
+    "TOP PAPERS TODAY": ("Top papers today", "The {n} worth reading first"),
     "TIER A — ALL NEW NEUROSCIENCE": ("Tier A — all new neuroscience", None),
     "NEURODEGENERATION & AGING — TOP 5": ("Neurodegeneration & aging", None),
     "PREPRINTS": ("Preprints", "Not peer reviewed — interpret accordingly"),
@@ -258,6 +260,9 @@ def render(md):
 
     for sec_title, papers in sections:
         label, sub = SECTION_META.get(sec_title, (sec_title.title(), None))
+        if sub and "{n}" in sub:
+            words = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five"}
+            sub = sub.format(n=words.get(len(papers), str(len(papers))))
         parts.append(
             f'<div style="margin:30px 0 15px;border-bottom:2px solid {ACCENT};'
             f'padding:0 0 7px">'

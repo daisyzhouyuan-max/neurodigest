@@ -290,15 +290,27 @@ def main():
     tracked = [p for p in seen.get("papers", []) if p.get("section") == "preprint"]
     for p in tracked:
         doi = p.get("doi")
-        if not doi or not doi.startswith("10.1101"):
+        if not doi:
             continue
+        # Do NOT gate on a DOI prefix. bioRxiv/medRxiv issued 10.1101 historically
+        # but now mint under 10.64898, and a prefix test silently drops every
+        # newer preprint from publication tracking.
+        # Try the recorded server first, then the other one — a mis-recorded
+        # server would otherwise look like "never published".
+        recorded = p.get("server", "biorxiv")
+        servers = [recorded] + [s for s in ("biorxiv", "medrxiv") if s != recorded]
         try:
-            data = json.loads(get(f"https://api.biorxiv.org/details/{p.get('server', 'biorxiv')}/{doi}"))
-            for item in data.get("collection", []):
-                if item.get("published") and item["published"].lower() != "na":
-                    now_published.append({"preprint": p, "published_doi": item["published"]})
-                    break
-            time.sleep(0.3)
+            for server_name in servers:
+                data = json.loads(get(f"https://api.biorxiv.org/details/{server_name}/{doi}"))
+                collection = data.get("collection") or []
+                time.sleep(0.3)
+                if not collection:
+                    continue
+                for item in collection:
+                    if item.get("published") and item["published"].lower() != "na":
+                        now_published.append({"preprint": p, "published_doi": item["published"]})
+                        break
+                break
         except Exception as exc:
             result["errors"].append(f"pub-check {doi}: {exc}")
     result["now_published"] = now_published
