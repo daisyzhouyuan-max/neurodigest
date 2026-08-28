@@ -11,7 +11,7 @@
     {
       "doi": "10.1038/s41467-026-75895-9",
       "pmid": "42637746",
-      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-β from Alzheimer's Disease Brain.",
       "journal": "Nat Commun",
       "date_reported": "2026-08-26",
       "section": "top"
@@ -83,7 +83,7 @@
     {
       "doi": "10.1002/alz.71785",
       "pmid": "42639646",
-      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-08-26",
       "section": "tier_b"
@@ -256,7 +256,7 @@
     {
       "doi": "10.64898/2026.08.21.743990",
       "pmid": null,
-      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate Aβ amyloid homeostasis",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -283,7 +283,7 @@
     {
       "doi": "10.64898/2026.08.21.746199",
       "pmid": null,
-      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
+      "title": "Glycogen Synthase Kinase-3β Regulates Cellular Prion Protein Levels",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -297,7 +297,103 @@
       "server": "medrxiv",
       "date_reported": "2026-08-26",
       "section": "preprint"
+    },
+    {
+      "doi": "10.1038/s41586-026-10964-z",
+      "pmid": "42649291",
+      "title": "Aberrant excitatory neuronal ERBB4 promotes Alzheimer's disease pathology.",
+      "journal": "Nature",
+      "date_reported": "2026-08-28",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/science.ady4523",
+      "pmid": "42658940",
+      "title": "Autism mutations rewire protein interaction networks to drive neurodevelopmental pathology.",
+      "journal": "Science",
+      "date_reported": "2026-08-28",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag292",
+      "pmid": "42657779",
+      "title": "Viral mimetic triggers haemorrhagic transformation in a childhood stroke model via neutrophil elastase.",
+      "journal": "Brain",
+      "date_reported": "2026-08-28",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117904",
+      "pmid": "42658675",
+      "title": "Loss of laminin-γ1 in pericytes impairs microvascular function and cognition.",
+      "journal": "Cell Rep",
+      "date_reported": "2026-08-28",
+      "section": "top"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218472",
+      "pmid": "42659615",
+      "title": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+      "journal": "Neurology",
+      "date_reported": "2026-08-28",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-10946-1",
+      "pmid": "42649299",
+      "title": "Granule cells reorient cortical trajectories to separate contexts.",
+      "journal": "Nature",
+      "date_reported": "2026-08-28",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-10967-w",
+      "pmid": "42649292",
+      "title": "Endocannabinoids facilitate reward engagement through retrograde gain control.",
+      "journal": "Nature",
+      "date_reported": "2026-08-28",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41467-026-76032-2",
+      "pmid": "42649182",
+      "title": "Leptomeningeal fibroblasts promote glioblastoma progression by regulating cerebrospinal fluid dynamics.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-08-28",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71792",
+      "pmid": "42657501",
+      "title": "Dynamic imaging markers of incident microhemorrhages and superficial siderosis in the A4 study: A longitudinal person-interval analysis.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-28",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71754",
+      "pmid": "42659539",
+      "title": "Genetic frontotemporal degeneration across the lifespan? A critical appraisal of the neurodevelopmental hypothesis.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-28",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71777",
+      "pmid": "42658841",
+      "title": "Methodological insights and clinical outcomes in ALS and FTLD: lessons from the SPIN cohort.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-28",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117896",
+      "pmid": "42658674",
+      "title": "Vagal subcircuits differentially regulate sepsis-induced sickness and anxiety-related behaviors.",
+      "journal": "Cell Rep",
+      "date_reported": "2026-08-28",
+      "section": "tier_b"
     }
   ],
-  "last_updated": "2026-08-26"
+  "last_updated": "2026-08-28"
 }
