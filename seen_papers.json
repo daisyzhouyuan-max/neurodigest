@@ -393,7 +393,149 @@
       "journal": "Cell Rep",
       "date_reported": "2026-08-28",
       "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71783",
+      "pmid": "42669630",
+      "title": "Longitudinal plasma phosphorylated tau217 classification and the association with Alzheimer's disease progression.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-31",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag194",
+      "pmid": "42663379",
+      "title": "AGG repeat expansion and aggregation of BIN1 in multiple system atrophy.",
+      "journal": "Brain",
+      "date_reported": "2026-08-31",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/sciadv.aee4940",
+      "pmid": "42664340",
+      "title": "Neuron-derived SPP1 instructs microglia to limit degeneration.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-08-31",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-75194-3",
+      "pmid": "42660892",
+      "title": "Leucine-rich repeat kinase 2 impairs the release sites of Parkinson's disease vulnerable dopamine axons.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-08-31",
+      "section": "top"
+    },
+    {
+      "doi": "10.64898/2026.08.28.747944",
+      "pmid": null,
+      "title": "Characterizing shared and distinctive molecular phenotypes across motor regions in ALS with and without TDP-43 pathology in a veteran cohort",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-31",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s43587-026-01214-y",
+      "pmid": "42665752",
+      "title": "Closing the gap in Alzheimer's disease research through the Sex | Gender in Neurodegeneration Consortium.",
+      "journal": "Nat Aging",
+      "date_reported": "2026-08-31",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.07.031",
+      "pmid": "42664973",
+      "title": "A bifunctional optical reporter for tracking estrogen response dynamics in neurons.",
+      "journal": "Neuron",
+      "date_reported": "2026-08-31",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71784",
+      "pmid": "42669622",
+      "title": "Extracellular matrix remodeling upregulates hippocampal neurogenic niche stiffness and impairs neurogenesis in Alzheimer's disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-08-31",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117919",
+      "pmid": "42664052",
+      "title": "Core activation program and selective regional responsiveness of microglia during aging and parabiosis.",
+      "journal": "Cell Rep",
+      "date_reported": "2026-08-31",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-76241-9",
+      "pmid": "42660921",
+      "title": "CELF2 promotes 4R Tau splicing via nuclear clustering and drives cognitive dysfunction in tauopathy models.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-08-31",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1523/JNEUROSCI.0511-26.2026",
+      "pmid": "42660657",
+      "title": "Temporal progression of auditory brainstem dysfunction and behavioral phenotypes in mouse models of tauopathy.",
+      "journal": "J Neurosci",
+      "date_reported": "2026-08-31",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218475",
+      "pmid": "42664488",
+      "title": "Centrally Acting Medications, Chronic Pain, and Orthopedic Surgical History Among Former American Football Players.",
+      "journal": "Neurology",
+      "date_reported": "2026-08-31",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.08.25.747144",
+      "pmid": null,
+      "title": "Mitochondrial DNA copy number in neurodegenerative diseases: a global meta-analysis of 156 comparisons across 76 studies",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.23.746508",
+      "pmid": null,
+      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-β impairs astrocytic autophagic flux and exacerbates neuroinflammation",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.25.747113",
+      "pmid": null,
+      "title": "RGC-specific reversal of lipid peroxidation drives neuroprotection and vision restoration in optic nerve ischemia by targeting GPX4",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.05.20.26353696",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "medrxiv",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.64898/2026.08.25.746691",
+      "pmid": null,
+      "title": "Mitochondrial dysfunction as a hallmark of brain senescence in telomerase-deficient mice",
+      "journal": "biorxiv",
+      "server": "biorxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
     }
   ],
-  "last_updated": "2026-08-28"
+  "last_updated": "2026-08-31"
 }
