@@ -11,7 +11,7 @@
     {
       "doi": "10.1038/s41467-026-75895-9",
       "pmid": "42637746",
-      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-β from Alzheimer's Disease Brain.",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
       "journal": "Nat Commun",
       "date_reported": "2026-08-26",
       "section": "top"
@@ -83,7 +83,7 @@
     {
       "doi": "10.1002/alz.71785",
       "pmid": "42639646",
-      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-08-26",
       "section": "tier_b"
@@ -256,7 +256,7 @@
     {
       "doi": "10.64898/2026.08.21.743990",
       "pmid": null,
-      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate Aβ amyloid homeostasis",
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -283,7 +283,7 @@
     {
       "doi": "10.64898/2026.08.21.746199",
       "pmid": null,
-      "title": "Glycogen Synthase Kinase-3β Regulates Cellular Prion Protein Levels",
+      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -325,7 +325,7 @@
     {
       "doi": "10.1016/j.celrep.2026.117904",
       "pmid": "42658675",
-      "title": "Loss of laminin-γ1 in pericytes impairs microvascular function and cognition.",
+      "title": "Loss of laminin-\u03b31 in pericytes impairs microvascular function and cognition.",
       "journal": "Cell Rep",
       "date_reported": "2026-08-28",
       "section": "top"
@@ -503,7 +503,7 @@
     {
       "doi": "10.64898/2026.08.23.746508",
       "pmid": null,
-      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-β impairs astrocytic autophagic flux and exacerbates neuroinflammation",
+      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-\u03b2 impairs astrocytic autophagic flux and exacerbates neuroinflammation",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-31",
@@ -555,7 +555,7 @@
     {
       "doi": "10.1002/alz.71714",
       "pmid": "42671246",
-      "title": "Cross-tissue immune profiling of APOE ε4 reveals early dysregulation in Alzheimer's disease.",
+      "title": "Cross-tissue immune profiling of APOE \u03b54 reveals early dysregulation in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-09-01",
       "section": "top"
@@ -652,7 +652,114 @@
       "date_reported": "2026-09-01",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1007/s00401-026-03078-3",
+      "pmid": "42678414",
+      "title": "Seeds from ALS patients homozygous for the SOD1 D90A mutation transmit two types of SOD1 aggregation and motor neuron disease.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-09-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.006",
+      "pmid": "42679819",
+      "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities.",
+      "journal": "Cell",
+      "date_reported": "2026-09-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02419-5",
+      "pmid": "42680906",
+      "title": "Whole-exome sequencing in individuals with obsessive-compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02389-8",
+      "pmid": "42680907",
+      "title": "State-dependent signal flow hierarchy in the human cerebral cortex.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41591-026-04630-0",
+      "pmid": "42680953",
+      "title": "Altered oligodendrocyte function promotes cognitive decline in aging.",
+      "journal": "Nat Med",
+      "date_reported": "2026-09-02",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41467-026-77016-y",
+      "pmid": "42680774",
+      "title": "YTHDC1 functions as a molecular chaperone to suppress ALS-linked hnRNPA1 mutants from aggregation.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78348",
+      "pmid": "42677823",
+      "title": "Cofilin 1 Is an Extracellular Vesicle-Associated Plasma Biomarker of Parkinson's Disease in Humans.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70494",
+      "pmid": "42681972",
+      "title": "The Effect of LRRK2 and GBA1 Mutations on Survival in Early- and Late-Onset Parkinson's Disease.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71773",
+      "pmid": "42677463",
+      "title": "Brain-derived plasma p-tau217 shows enhanced dynamic range for Alzheimer's disease neuropathological change.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71811",
+      "pmid": "42675347",
+      "title": "Female vulnerability to microvascular transport dysfunction emerges early across the Alzheimer's disease continuum.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1101/2025.10.30.25339159",
+      "pmid": null,
+      "title": "Gender-associated differences in serum metabolite profiles among patients with Parkinson's Disease",
+      "journal": null,
+      "date_reported": "2026-09-02",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.27.26361535",
+      "pmid": null,
+      "title": "Returning APOE and pTau-217 Results: the eSMARTER Randomized Noninferiority Clinical Trial",
+      "journal": null,
+      "date_reported": "2026-09-02",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.30.26361760",
+      "pmid": null,
+      "title": "Evaluating Cognitive Impact of Traumatic Brain Injury and Risk for Post-Traumatic Epilepsy",
+      "journal": null,
+      "date_reported": "2026-09-02",
+      "section": "preprint",
+      "server": "medrxiv"
     }
   ],
-  "last_updated": "2026-09-01"
+  "last_updated": "2026-09-02"
 }
