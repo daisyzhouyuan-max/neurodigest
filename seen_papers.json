@@ -11,7 +11,7 @@
     {
       "doi": "10.1038/s41467-026-75895-9",
       "pmid": "42637746",
-      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-β from Alzheimer's Disease Brain.",
       "journal": "Nat Commun",
       "date_reported": "2026-08-26",
       "section": "top"
@@ -83,7 +83,7 @@
     {
       "doi": "10.1002/alz.71785",
       "pmid": "42639646",
-      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-08-26",
       "section": "tier_b"
@@ -256,7 +256,7 @@
     {
       "doi": "10.64898/2026.08.21.743990",
       "pmid": null,
-      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate Aβ amyloid homeostasis",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -283,7 +283,7 @@
     {
       "doi": "10.64898/2026.08.21.746199",
       "pmid": null,
-      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
+      "title": "Glycogen Synthase Kinase-3β Regulates Cellular Prion Protein Levels",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -325,7 +325,7 @@
     {
       "doi": "10.1016/j.celrep.2026.117904",
       "pmid": "42658675",
-      "title": "Loss of laminin-\u03b31 in pericytes impairs microvascular function and cognition.",
+      "title": "Loss of laminin-γ1 in pericytes impairs microvascular function and cognition.",
       "journal": "Cell Rep",
       "date_reported": "2026-08-28",
       "section": "top"
@@ -503,7 +503,7 @@
     {
       "doi": "10.64898/2026.08.23.746508",
       "pmid": null,
-      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-\u03b2 impairs astrocytic autophagic flux and exacerbates neuroinflammation",
+      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-β impairs astrocytic autophagic flux and exacerbates neuroinflammation",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-31",
@@ -555,7 +555,7 @@
     {
       "doi": "10.1002/alz.71714",
       "pmid": "42671246",
-      "title": "Cross-tissue immune profiling of APOE \u03b54 reveals early dysregulation in Alzheimer's disease.",
+      "title": "Cross-tissue immune profiling of APOE ε4 reveals early dysregulation in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-09-01",
       "section": "top"
@@ -759,7 +759,165 @@
       "date_reported": "2026-09-02",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41586-026-10981-y",
+      "pmid": "42686909",
+      "title": "Intracellular complement factor H protects neurons during CNS inflammation.",
+      "journal": "Nature",
+      "date_reported": "2026-09-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-10939-0",
+      "pmid": "42686898",
+      "title": "Somatic mutations reveal the ontogeny of microglia in human ageing.",
+      "journal": "Nature",
+      "date_reported": "2026-09-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/scitranslmed.aea8738",
+      "pmid": "42685154",
+      "title": "Metabolic reallocation in spinal cord oligodendrocytes drives chronic pain in mice through neuronal Aβ42 production.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-09-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.64898/2026.08.27.746928",
+      "pmid": null,
+      "title": "Proteomic signatures of APOE ε4 across human tissues and cell types in Alzheimers disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-03",
+      "section": "top",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41586-026-10987-6",
+      "pmid": "42686907",
+      "title": "3D epigenome of glial cell types in developing human cortex.",
+      "journal": "Nature",
+      "date_reported": "2026-09-03",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-10690-6",
+      "pmid": "42686902",
+      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction.",
+      "journal": "Nature",
+      "date_reported": "2026-09-03",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02414-w",
+      "pmid": "42686885",
+      "title": "Glutamate concentration tunes AMPA receptor function through conductance-state occupancy.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-03",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02421-x",
+      "pmid": "42686884",
+      "title": "Mitochondrial calcium influx-driven bioenergetics selectively enable drug addiction.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-03",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/scitranslmed.aed8729",
+      "pmid": "42685155",
+      "title": "Elevated translocator protein in skull bone marrow is linked to human chronic pain.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-09-03",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/sciadv.aed2952",
+      "pmid": "42685224",
+      "title": "Activation of transposable elements is linked to a region- and cell type-specific interferon response in Parkinson's disease.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-09-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1523/JNEUROSCI.0308-26.2026",
+      "pmid": "42686432",
+      "title": "When the Brain Grows Old Too Soon: Aging and Senescence as a Driver of MS Progression.",
+      "journal": "J Neurosci",
+      "date_reported": "2026-09-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117871",
+      "pmid": "42684886",
+      "title": "Neuroinflammation induces aberrant activation of Wnt signaling in astrocytes and impairment of cholesterol homeostasis and myelin integrity.",
+      "journal": "Cell Rep",
+      "date_reported": "2026-09-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78349",
+      "pmid": "42683770",
+      "title": "T Cell-Mediated Targeting of Interneurons in Mice Shapes Hippocampal Remodeling and Epilepsy.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218471",
+      "pmid": "42685299",
+      "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
+      "journal": "Neurology",
+      "date_reported": "2026-09-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.02.03.26345302",
+      "pmid": null,
+      "title": "A Two-Stage Plasma Biomarker Algorithm Reduces Amyloid PET Use and the p-Tau217 Gray Zone",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-03",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.29.747923",
+      "pmid": null,
+      "title": "Single nucleus RNA sequencing and spatial transcriptomics reveal unique functionalities of gray matter versus white matter oligodendrocytes in aging and Alzheimer's Disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.26.747434",
+      "pmid": null,
+      "title": "Linoleic Acid-Lyso PG Axis promoting lipid droplet-mitochondria tethering by stabilizing Noncanonically Mitochondrial PPAR β/δ to Ameliorate Microglial Dysfunction in subarachnoid hemorrhage",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.01.745409",
+      "pmid": null,
+      "title": "Tau isoforms modulate the axon initial segment controlling axonal trafficking and neuronal excitability",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.28.26361609",
+      "pmid": null,
+      "title": "Markerless Motion Capture Reveals Movement Abnormalities in Isolated REM Sleep Behavior Disorder",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-03",
+      "section": "preprint",
+      "server": "medrxiv"
     }
   ],
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-03"
 }
