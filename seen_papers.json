@@ -11,7 +11,7 @@
     {
       "doi": "10.1038/s41467-026-75895-9",
       "pmid": "42637746",
-      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-β from Alzheimer's Disease Brain.",
       "journal": "Nat Commun",
       "date_reported": "2026-08-26",
       "section": "top"
@@ -83,7 +83,7 @@
     {
       "doi": "10.1002/alz.71785",
       "pmid": "42639646",
-      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-08-26",
       "section": "tier_b"
@@ -256,7 +256,7 @@
     {
       "doi": "10.64898/2026.08.21.743990",
       "pmid": null,
-      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate Aβ amyloid homeostasis",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -283,7 +283,7 @@
     {
       "doi": "10.64898/2026.08.21.746199",
       "pmid": null,
-      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
+      "title": "Glycogen Synthase Kinase-3β Regulates Cellular Prion Protein Levels",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -325,7 +325,7 @@
     {
       "doi": "10.1016/j.celrep.2026.117904",
       "pmid": "42658675",
-      "title": "Loss of laminin-\u03b31 in pericytes impairs microvascular function and cognition.",
+      "title": "Loss of laminin-γ1 in pericytes impairs microvascular function and cognition.",
       "journal": "Cell Rep",
       "date_reported": "2026-08-28",
       "section": "top"
@@ -503,7 +503,7 @@
     {
       "doi": "10.64898/2026.08.23.746508",
       "pmid": null,
-      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-\u03b2 impairs astrocytic autophagic flux and exacerbates neuroinflammation",
+      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-β impairs astrocytic autophagic flux and exacerbates neuroinflammation",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-31",
@@ -555,7 +555,7 @@
     {
       "doi": "10.1002/alz.71714",
       "pmid": "42671246",
-      "title": "Cross-tissue immune profiling of APOE \u03b54 reveals early dysregulation in Alzheimer's disease.",
+      "title": "Cross-tissue immune profiling of APOE ε4 reveals early dysregulation in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-09-01",
       "section": "top"
@@ -759,7 +759,157 @@
       "date_reported": "2026-09-02",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41593-026-02427-5",
+      "pmid": "42693199",
+      "title": "Priming of CD8+ T cells by peripheral dendritic cells exacerbates tau-mediated neurodegeneration",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-07",
+      "section": "top"
+    },
+    {
+      "doi": "10.64898/2026.09.03.747935",
+      "pmid": null,
+      "title": "An Integrated Single-Nucleus Atlas Resolves Cell-Type-Specific Programs and Molecular Subtypes in Alzheimer's Disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-07",
+      "section": "top",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1007/s00401-026-03077-4",
+      "pmid": "42696165",
+      "title": "Oligodendroglial somatic SNCA copy number gains are associated with inclusions and disease onset in multiple system atrophy",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-09-07",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03075-6",
+      "pmid": "42696048",
+      "title": "Familial, neuropathological and cellular analysis identify ARPP21 as a major amyotrophic lateral sclerosis associated gene in French cohorts",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-09-07",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41592-026-03188-6",
+      "pmid": "42697987",
+      "title": "Large-scale single-molecule analysis of tau proteoforms",
+      "journal": "Nat Methods",
+      "date_reported": "2026-09-07",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02434-6",
+      "pmid": "42697957",
+      "title": "Neuromodulation for restoring and amplifying brain function",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-07",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02442-6",
+      "pmid": "42697956",
+      "title": "Neural geometry guides learning",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-07",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02409-7",
+      "pmid": "42693198",
+      "title": "Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-07",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1093/brain/awag297",
+      "pmid": "42698276",
+      "title": "Progress towards a biotypic biomarker profile for amyotrophic lateral sclerosis-frontotemporal spectrum disorders",
+      "journal": "Brain",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-76434-2",
+      "pmid": "42693124",
+      "title": "Diagnostic performance of plasma pTau217 in genetically admixed South American populations",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-76306-9",
+      "pmid": "42693113",
+      "title": "Non-invasive characterization of perivascular subarachnoid spaces",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-75862-4",
+      "pmid": "42702629",
+      "title": "Targeting m6A writer METTL3 with engineered nanovesicles reduces neuroinflammation in vitro and in vivo",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70468",
+      "pmid": "42696070",
+      "title": "Spatiotemporal Tau Accumulation and its Clinical Impact on Progressive Supranuclear Palsy: Longitudinal Florzolotau (18F) Positron Emission Tomography",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1101/2025.05.05.25326993",
+      "pmid": null,
+      "title": "GLP-1 receptor agonist use is associated with shorter survival in patients with amyotrophic lateral sclerosis and diabetes mellitus",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-07",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.07.21.26358398",
+      "pmid": null,
+      "title": "Nucleus basalis of Meynert integrity is associated with cognitive dysfunction in Parkinson's disease independently of locus coeruleus degeneration",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-07",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1101/2024.10.22.619411",
+      "pmid": null,
+      "title": "Network analysis of α-synuclein pathology progression reveals p21-activated kinases as regulators of vulnerability",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-07",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.08.31.748228",
+      "pmid": null,
+      "title": "Genotoxic and metabolic stress drive divergent senescence programs in human microglia",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-07",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.01.748585",
+      "pmid": null,
+      "title": "ApoE4 impairs astrocyte lipid droplet formation via endolysosomal dysfunction",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-07",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-07"
 }
