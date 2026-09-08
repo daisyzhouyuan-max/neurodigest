@@ -11,7 +11,7 @@
     {
       "doi": "10.1038/s41467-026-75895-9",
       "pmid": "42637746",
-      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-\u03b2 from Alzheimer's Disease Brain.",
+      "title": "Distinct Filament Conformation for Receptor-Bound Amyloid-β from Alzheimer's Disease Brain.",
       "journal": "Nat Commun",
       "date_reported": "2026-08-26",
       "section": "top"
@@ -83,7 +83,7 @@
     {
       "doi": "10.1002/alz.71785",
       "pmid": "42639646",
-      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE \u03b54 and cognitive decline in Alzheimer's disease.",
+      "title": "Retinal microvascular alterations and glymphatic dysfunction mediate the association between APOE ε4 and cognitive decline in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-08-26",
       "section": "tier_b"
@@ -256,7 +256,7 @@
     {
       "doi": "10.64898/2026.08.21.743990",
       "pmid": null,
-      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate A\u03b2 amyloid homeostasis",
+      "title": "Syndecan-4 exerts canonical heparan sulfate-dependent and noncanonical heparan sulfate-independent functions that regulate Aβ amyloid homeostasis",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -283,7 +283,7 @@
     {
       "doi": "10.64898/2026.08.21.746199",
       "pmid": null,
-      "title": "Glycogen Synthase Kinase-3\u03b2 Regulates Cellular Prion Protein Levels",
+      "title": "Glycogen Synthase Kinase-3β Regulates Cellular Prion Protein Levels",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-26",
@@ -325,7 +325,7 @@
     {
       "doi": "10.1016/j.celrep.2026.117904",
       "pmid": "42658675",
-      "title": "Loss of laminin-\u03b31 in pericytes impairs microvascular function and cognition.",
+      "title": "Loss of laminin-γ1 in pericytes impairs microvascular function and cognition.",
       "journal": "Cell Rep",
       "date_reported": "2026-08-28",
       "section": "top"
@@ -503,7 +503,7 @@
     {
       "doi": "10.64898/2026.08.23.746508",
       "pmid": null,
-      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-\u03b2 impairs astrocytic autophagic flux and exacerbates neuroinflammation",
+      "title": "Hyperactivation of the AXL-ICD/SIRT2 axis by Amyloid-β impairs astrocytic autophagic flux and exacerbates neuroinflammation",
       "journal": "biorxiv",
       "server": "biorxiv",
       "date_reported": "2026-08-31",
@@ -555,7 +555,7 @@
     {
       "doi": "10.1002/alz.71714",
       "pmid": "42671246",
-      "title": "Cross-tissue immune profiling of APOE \u03b54 reveals early dysregulation in Alzheimer's disease.",
+      "title": "Cross-tissue immune profiling of APOE ε4 reveals early dysregulation in Alzheimer's disease.",
       "journal": "Alzheimers Dement",
       "date_reported": "2026-09-01",
       "section": "top"
@@ -759,7 +759,140 @@
       "date_reported": "2026-09-02",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.08.008",
+      "pmid": "42705231",
+      "title": "Inhibitory circuits restrain adult glioma progression by suppressing calcium-driven oncogenic programs.",
+      "journal": "Neuron",
+      "date_reported": "2026-09-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-76302-z",
+      "pmid": "42706251",
+      "title": "A Lactate-H4K12la-HDAC1 epigenetic axis governs microglial state transitions during experimental autoimmune encephalomyelitis in female mice.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/ana.78355",
+      "pmid": "42703939",
+      "title": "Tracking Socio-emotional Brain Changes in Premanifest C9orf72 Repeat Expansion Carriers: A Structural and Functional 2-Year Longitudinal Magnetic Resonance Imaging Study.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag241",
+      "pmid": "42705343",
+      "title": "Salovum® reduces mortality in isolated severe traumatic brain injury: a randomized phase II trial.",
+      "journal": "Brain",
+      "date_reported": "2026-09-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag204",
+      "pmid": "42703926",
+      "title": "Tyrosyl-tRNA sequestration triggers tyrosyl-tRNA synthetase-associated peripheral neuropathy.",
+      "journal": "Brain",
+      "date_reported": "2026-09-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02447-1",
+      "pmid": "42706445",
+      "title": "Ethical considerations for implantable human brain-computer interfaces.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-08",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41467-026-75862-4",
+      "pmid": "42702629",
+      "title": "Targeting m6A writer METTL3 with engineered nanovesicles reduces neuroinflammation in vitro and in vivo.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71804",
+      "pmid": "42706501",
+      "title": "A meta-refined human Alzheimer's disease-associated gene subset shows partial mouse-model pathway correspondence and limited cross-cohort machine-learning transportability.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71809",
+      "pmid": "42706564",
+      "title": "Distinct ocular microvascular alterations in Alzheimer's disease and cerebral small vessel disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71780",
+      "pmid": "42706593",
+      "title": "The Cog-Aging: a 15-year cohort study of cognition in Brazilian older adults.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70538",
+      "pmid": "42706699",
+      "title": "Rare-Variant Burden in Mitochondrial Parkinson's Disease.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.06.23.733858",
+      "pmid": null,
+      "title": "mTOR drives cerebrovascular dysfunction and blood-brain barrier breakdown in a model of Alzheimers disease with cerebral amyloid angiopathy",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-08",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.749217",
+      "pmid": null,
+      "title": "Chemical Genetic Targeting of the LRRK2 GTPase Domain",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-08",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.26362173",
+      "pmid": null,
+      "title": "Deep Representation Learning of Wrist-Worn Sensor Signals for Latent Motor Abnormality Scoring in Parkinson's Disease",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-08",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.26361524",
+      "pmid": null,
+      "title": "Remote ambulation monitoring enhances composite disability measurement in MS to deliver reduced trial sample size",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-08",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.749147",
+      "pmid": null,
+      "title": "Computer vision-aided locomotor behavioral analysis identifies therapeutic motor signatures in a mouse model of Huntington disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-08",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-08"
 }
