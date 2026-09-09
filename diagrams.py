@@ -5,14 +5,45 @@ Journal figures are copyrighted and mostly unreachable for brand-new papers
 (not yet deposited in PMC, publisher sites behind auth), so these are original
 diagrams drawn from the reported findings. Self-contained SVG with hardcoded
 colours — no external CSS — rendered to PNG via headless Chrome for email.
+
+Two ways to add a figure:
+  1. One-off, hand-laid-out: write a fig_*() function (see the five originals
+     below) and add it to FIGURES.
+  2. Daily, templated: build a JSON spec (see fig_flow_from_spec / --spec)
+     with a title, subtitle, model/system, and a short ordered list of
+     mechanism steps — one call renders a generic boxes-and-arrows flow
+     without hand-placing coordinates. This is the one to reuse every day.
 """
+import json
 import pathlib
+import shutil
 import subprocess
 import sys
 import textwrap
 
 W = 570                      # fits the email card's inner width
-CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+
+
+def find_chrome():
+    env = __import__("os").environ.get("DIGEST_CHROME")
+    if env and pathlib.Path(env).exists():
+        return env
+    candidates = [
+        "/opt/pw-browsers/chromium",
+        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        shutil.which("chromium"),
+        shutil.which("chromium-browser"),
+        shutil.which("google-chrome"),
+    ]
+    for c in candidates:
+        if c and pathlib.Path(c).exists():
+            return c
+    raise RuntimeError(
+        "No headless Chrome/Chromium found. Set DIGEST_CHROME to a binary path."
+    )
+
+
+CHROME = find_chrome()
 FONT = "Helvetica,Arial,sans-serif"
 
 INK, MUTED, FAINT = "#14171a", "#5b6570", "#8a939c"
@@ -235,6 +266,92 @@ def fig_ttr():
                "age of disease onset.")
 
 
+def fig_flow_from_spec(spec):
+    """Generic template: a short chain of labeled boxes with arrows, built
+    from a plain dict instead of hand-placed coordinates. This is the one to
+    reuse every day for Top Papers — write the content (title, 2-4 steps,
+    caption), not the layout.
+
+    Rows hold at most 2 boxes (2-column text needs ~30 chars/title to avoid
+    overflowing at this card width); a step left over after pairing gets a
+    full-width row of its own — a natural shape for "input + mechanism ->
+    outcome". So: 2 steps = one row of 2; 3 steps = a row of 2 then a
+    full-width row of 1; 4 steps = two rows of 2.
+
+    spec keys:
+      title    figure headline (top of card)
+      subtitle optional line under the headline (e.g. species/cohort size)
+      steps    2-4 dicts: {"title": str, "sub": [str, ...], "color": str}
+               color is one of PALETTE's keys (blue/green/amber/teal/coral/gray)
+               keep title <=28 chars and each sub line <=32 chars in a
+               2-box row; a solo full-width row allows roughly 2x that.
+      caption  optional one-line takeaway (<=75 chars), shown in a colored
+               bar at the bottom
+      caption_color  optional, default "teal"
+      desc     optional longer alt-text description (falls back to caption/title)
+    """
+    title = spec["title"]
+    subtitle = spec.get("subtitle")
+    steps = spec["steps"]
+    caption = spec.get("caption")
+    caption_color = spec.get("caption_color", "teal")
+
+    n = len(steps)
+    if not 2 <= n <= 4:
+        raise ValueError(f"fig_flow_from_spec needs 2-4 steps, got {n}")
+
+    box_h, gap = 78, 28
+    y0 = 58 if subtitle else 40
+    rows = [steps[:2]] if n == 2 else \
+           [steps[:2], steps[2:]] if n in (3, 4) else [steps]
+    body_h = box_h * len(rows) + gap * (len(rows) - 1)
+    caption_h = 46 if caption else 0
+    h = y0 + body_h + (24 if caption else 10) + caption_h
+
+    f = Fig(h)
+    f.text(16, 24, title, 13, 700, INK)
+    if subtitle:
+        f.text(16, 42, subtitle, 11, 400, FAINT)
+
+    def place_row(row, y):
+        count = len(row)
+        bw = (W - 32 - (count - 1) * gap) / count
+        xs = [16 + i * (bw + gap) for i in range(count)]
+        for x, step in zip(xs, row):
+            f.box(x, y, bw, box_h, step["title"], step.get("sub", []),
+                  step.get("color", "gray"), center=(count == 1))
+        for i in range(count - 1):
+            f.arrow(xs[i] + bw, y + box_h / 2, xs[i + 1], y + box_h / 2)
+        return xs, bw
+
+    y = y0
+    row_geoms = []
+    for row in rows:
+        xs, bw = place_row(row, y)
+        row_geoms.append((xs, bw))
+        y += box_h + gap
+    y_end = y - gap
+
+    if len(rows) == 2:
+        (xs1, bw1), (xs2, bw2) = row_geoms
+        y1_bottom, y2_top = y0 + box_h, y0 + box_h + gap
+        if len(rows[1]) == 1:
+            # two boxes converging into one outcome below — aim at two
+            # distinct points so the arrows form a funnel, not an X
+            target_mid = xs2[0] + bw2 / 2
+            f.arrow(xs1[0] + bw1 / 2, y1_bottom, target_mid - 50, y2_top)
+            f.arrow(xs1[-1] + bw1 / 2, y1_bottom, target_mid + 50, y2_top)
+        else:
+            # 2x2 grid: each column flows straight down
+            for x1, x2 in zip(xs1, xs2):
+                f.arrow(x1 + bw1 / 2, y1_bottom, x2 + bw2 / 2, y2_top)
+
+    if caption:
+        f.caption(y_end + 20, caption, caption_color)
+
+    return f, (title, spec.get("desc", caption or title))
+
+
 FIGURES = {
     "fig1-oligodendrocyte": fig_oligodendrocyte,
     "fig2-abeta": fig_abeta,
@@ -244,33 +361,56 @@ FIGURES = {
 }
 
 
-def render(outdir):
+SCALE = 2
+# Headless Chrome's screenshot viewport comes up ~90px shorter than the
+# requested --window-size height on this build (confirmed by direct test:
+# content past that point is silently clipped, not just cropped at a
+# sensible boundary). Request extra height as a safety margin, then crop
+# the PNG back down to the true figure size with Pillow.
+HEIGHT_PAD = 150
+
+
+def _render_fig(name, fig, title, desc, outdir):
+    svg = fig.svg(title, desc)
+    (outdir / f"{name}.svg").write_text(svg)
+
+    html = f'<html><body style="margin:0;background:#fff">{svg}</body></html>'
+    tmp = outdir / f"{name}.html"
+    tmp.write_text(html)
+    png = outdir / f"{name}.png"
+    subprocess.run(
+        [CHROME, "--headless", "--disable-gpu", "--no-sandbox",
+         f"--force-device-scale-factor={SCALE}", "--hide-scrollbars",
+         f"--window-size={W},{fig.h + HEIGHT_PAD}",
+         f"--screenshot={png}", tmp.as_uri()],
+        capture_output=True, timeout=120,
+    )
+    tmp.unlink()
+
+    if png.exists():
+        try:
+            from PIL import Image
+        except ImportError:
+            subprocess.run([sys.executable, "-m", "pip", "install", "-q", "pillow"],
+                            check=True)
+            from PIL import Image
+        im = Image.open(png)
+        im.crop((0, 0, W * SCALE, fig.h * SCALE)).save(png)
+
+    ok = png.exists()
+    size = png.stat().st_size if ok else 0
+    print(f"{name:24} {'ok' if ok else 'FAILED':6} {size:>8,} bytes  h={fig.h}")
+    return fig.warnings
+
+
+def render(outdir, builders=None):
     outdir = pathlib.Path(outdir)
     outdir.mkdir(parents=True, exist_ok=True)
     problems = []
 
-    for name, builder in FIGURES.items():
+    for name, builder in (builders or FIGURES).items():
         fig, (title, desc) = builder()
-        svg = fig.svg(title, desc)
-        (outdir / f"{name}.svg").write_text(svg)
-
-        html = (f'<html><body style="margin:0;background:#fff">{svg}</body></html>')
-        tmp = outdir / f"{name}.html"
-        tmp.write_text(html)
-        subprocess.run(
-            [CHROME, "--headless", "--disable-gpu", "--no-sandbox",
-             "--force-device-scale-factor=2", "--hide-scrollbars",
-             f"--window-size={W},{fig.h}",
-             f"--screenshot={outdir / (name + '.png')}", tmp.as_uri()],
-            capture_output=True, timeout=120,
-        )
-        tmp.unlink()
-
-        png = outdir / f"{name}.png"
-        ok = png.exists()
-        size = png.stat().st_size if ok else 0
-        print(f"{name:24} {'ok' if ok else 'FAILED':6} {size:>8,} bytes  h={fig.h}")
-        for w in fig.warnings:
+        for w in _render_fig(name, fig, title, desc, outdir):
             problems.append(f"{name}: {w}")
 
     if problems:
@@ -282,6 +422,25 @@ def render(outdir):
     return problems
 
 
+def render_specs(spec_path, outdir):
+    """Render today's Top Papers figures from a JSON file: a list of specs,
+    each matching fig_flow_from_spec's input plus a required "name" (used as
+    the output filename stem) and optional "doi" (for your own bookkeeping
+    when wiring the result into render_email.py's FIGURES map — this function
+    does not touch render_email.py itself)."""
+    specs = json.loads(pathlib.Path(spec_path).read_text())
+    builders = {s["name"]: (lambda s=s: fig_flow_from_spec(s)) for s in specs}
+    return render(outdir, builders)
+
+
 if __name__ == "__main__":
-    out = sys.argv[1] if len(sys.argv) > 1 else "figures"
-    render(pathlib.Path(__file__).parent / out)
+    import argparse
+    p = argparse.ArgumentParser()
+    p.add_argument("outdir", nargs="?", default="figures")
+    p.add_argument("--spec", help="JSON spec file for render_specs() (daily figures)")
+    args = p.parse_args()
+    outdir = pathlib.Path(__file__).parent / args.outdir
+    if args.spec:
+        render_specs(args.spec, outdir)
+    else:
+        render(outdir)

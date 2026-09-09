@@ -49,6 +49,11 @@ FIGURES = {
     "10.1073/pnas.2614164123":    "fig3-macaque.png",
     "10.1002/alz.71765":          "fig4-aria.png",
     "10.1038/s41467-026-75850-8": "fig5-ttr.png",
+    "10.1038/s41593-026-02417-7": "2026-09-09-fig1-bonemarrow.png",
+    "10.1038/s41593-026-02428-4": "2026-09-09-fig2-meninges.png",
+    "10.1002/alz.71525":          "2026-09-09-fig3-isosleep.png",
+    "10.1073/pnas.2616799123":    "2026-09-09-fig4-remyelination.png",
+    "10.1002/alz.71807":          "2026-09-09-fig5-hivad.png",
 }
 
 
