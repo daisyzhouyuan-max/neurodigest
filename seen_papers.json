@@ -759,7 +759,141 @@
       "date_reported": "2026-09-02",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41593-026-02417-7",
+      "pmid": "42711429",
+      "title": "Bone marrow myelopoiesis dysfunction in Alzheimer's disease limits monocyte homing to the brain and drives disease progression.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02428-4",
+      "pmid": "42711430",
+      "title": "Intestinal infections establish antigen-specific, long-lived memory CD4+ T cells in the brain and meninges.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71525",
+      "pmid": "42708477",
+      "title": "Are infraslow oscillations the missing link between sleep and Alzheimer's?",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.64898/2026.09.03.26362212",
+      "pmid": null,
+      "title": "Analysis of east Asian Parkinson's disease Genomes Identifies Novel Susceptibility Loci and Functional Regulatory Variation",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-09",
+      "section": "top",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1073/pnas.2616799123",
+      "pmid": "42709811",
+      "title": "Fibronectin inhibition restores myelination in endothelial TNFR2-dependent nonremitting experimental autoimmune encephalomyelitis.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-09-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02447-1",
+      "pmid": "42706445",
+      "title": "Ethical considerations for implantable human brain-computer interfaces.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-09",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71807",
+      "pmid": "42708464",
+      "title": "Increased Amyloidogenic Neuronal Injury in HIV-1-infected APP-KI Alzheimer's disease mice.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1523/JNEUROSCI.1860-25.2026",
+      "pmid": "42711125",
+      "title": "Phosphorylation of \u03b1-synuclein directs trafficking of the v-SNARE synaptobrevin-2.",
+      "journal": "J Neurosci",
+      "date_reported": "2026-09-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1073/pnas.2603034123",
+      "pmid": "42709795",
+      "title": "Size-tailored nanoparticle-antibody conjugates overcome hepatic sequestration in Alzheimer's disease treatment.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-09-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-76302-z",
+      "pmid": "42706251",
+      "title": "A Lactate-H4K12la-HDAC1 epigenetic axis governs microglial state transitions during experimental autoimmune encephalomyelitis in female mice.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78347",
+      "pmid": "42708556",
+      "title": "Non-contrast CT Markers of Hematoma Expansion and Andexanet Response in Factor Xa Inhibitor-Associated Intracerebral Hemorrhage: An Analysis from ANNEXa-I Trial.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1101/2025.08.13.665777",
+      "pmid": null,
+      "title": "Polyanionic peptibody ameliorates tau pathology and promotes neuronal proteostasis in a tau transgenic mouse model",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.749261",
+      "pmid": null,
+      "title": "Synonymous HTT CAA/CCA-loss variants associated with early Huntington disease onset enhance toxicity beyond somatic instability",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.03.749099",
+      "pmid": null,
+      "title": "Hippocampal/medial temporal sclerosis is associated with clinical severity, regional TDP-43, and hippocampal atrophy in Alzheimer disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.04.749241",
+      "pmid": null,
+      "title": "SPP1+ Microglia Are Associated with Neuroimmune Rewiring and Glutamatergic Neuronal Injury in ART-Suppressed People Living with HIV",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.04.26362304",
+      "pmid": null,
+      "title": "Education and Alzheimer Disease Genetic Risk in Associations of GLP-1 Receptor Agonists With Dementia Among Adults With Type 2 Diabetes",
+      "journal": "medRxiv",
+      "date_reported": "2026-09-09",
+      "section": "preprint",
+      "server": "medrxiv"
     }
   ],
-  "last_updated": "2026-09-02"
+  "last_updated": "2026-09-09"
 }
