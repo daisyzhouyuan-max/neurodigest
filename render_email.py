@@ -54,6 +54,11 @@ FIGURES = {
     "10.1002/alz.71525":          "2026-09-09-fig3-isosleep.png",
     "10.1073/pnas.2616799123":    "2026-09-09-fig4-remyelination.png",
     "10.1002/alz.71807":          "2026-09-09-fig5-hivad.png",
+    "10.1126/scitranslmed.aea5469":  "2026-09-10-fig1-csfflow.png",
+    "10.1016/j.neuron.2026.08.006":  "2026-09-10-fig2-crispri.png",
+    "10.1016/S1474-4422(26)00313-3": "2026-09-10-fig3-ptau217.png",
+    "10.1016/S1474-4422(26)00277-2": "2026-09-10-fig4-himalaya.png",
+    "10.1038/s41586-026-10876-y":    "2026-09-10-fig5-sstchodl.png",
 }
 
 
