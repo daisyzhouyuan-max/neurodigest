@@ -43,49 +43,18 @@ Quote both status codes verbatim in your run summary either way, so a partial ou
 
 Each scheduled run is checked out on its own fresh branch and pushes there. Those branches are not merged back, so the `seen_papers.json` you start with is routinely several runs stale, and deduping against it alone re-sends papers that already went out on earlier days. This has actually happened: the runs on 2026-09-03, 09-04, 09-07 and 09-08 each started from the same stale 92-paper baseline and re-reported each other's papers.
 
-Union in every sibling run's state first:
+`fetch_sources.py` now does this automatically: its `reconcile_seen()` unions in
+every `origin/*` branch's `seen_papers.json` — keyed on DOI **and** PMID — before
+it builds the dedup index. You do not need to run anything extra here.
 
-```
-git fetch origin --prune
-python3 - <<'PY'
-import json, subprocess
+Report the "reconciled seen_papers across N branches: +X papers" line it prints
+in your run summary. If it reports a large number, prior runs' state had not
+propagated and the digest you are about to write was at real risk of repeats.
 
-def papers_at(ref):
-    r = subprocess.run(["git", "show", f"{ref}:seen_papers.json"],
-                       capture_output=True, text=True)
-    if r.returncode != 0:
-        return []
-    try:
-        return json.loads(r.stdout).get("papers", [])
-    except Exception:
-        return []
-
-refs = subprocess.run(["git", "for-each-ref", "--format=%(refname:short)",
-                       "refs/remotes/origin"], capture_output=True, text=True
-                      ).stdout.split()
-
-local = json.load(open("seen_papers.json"))
-by_doi = {p["doi"]: p for p in local["papers"] if p.get("doi")}
-added = 0
-for ref in refs:
-    for p in papers_at(ref):
-        doi = p.get("doi")
-        if not doi:
-            continue
-        if doi not in by_doi:
-            by_doi[doi] = p
-            added += 1
-        else:
-            old, new = by_doi[doi].get("date_reported"), p.get("date_reported")
-            if new and (not old or new < old):
-                by_doi[doi]["date_reported"] = new
-local["papers"] = list(by_doi.values())
-json.dump(local, open("seen_papers.json", "w"), indent=2)
-print(f"reconciled: +{added} papers from sibling branches, total {len(local['papers'])}")
-PY
-```
-
-Report the number it added in your run summary. Do not skip this step, and do not fetch before it has run — `fetch_sources.py` dedupes against `seen_papers.json` as it stands at that moment.
+Do not hand-roll a replacement for this step. An earlier version of this prompt
+carried an inline script that keyed only on DOI and rebuilt the paper list from
+that dict, which silently dropped any record that had a PMID but no DOI and made
+it re-sendable.
 
 ## 2. FETCH
 
@@ -282,6 +251,14 @@ Send exactly one email. If no Gmail tool is available in this session, do **not*
 2. For anything listed under NOW PUBLISHED, update its existing record with the new DOI, PMID, journal and title rather than adding a row.
 3. Set `last_updated` to today.
 4. `git add -A && git commit -m "Digest YYYY-MM-DD" && git push`
+5. Also publish to `main`, so the next run starts from current state and so the
+   figures resolve (they are served from `main`):
+   ```
+   git fetch origin main && git rebase origin/main && git push origin HEAD:main
+   ```
+   If the rebase or the push to `main` fails, do not fight it — the run's own
+   branch already has everything, and `reconcile_seen()` will recover the state
+   next time. Just say so in the run summary.
 
 Commit the reconciled `seen_papers.json` (section 1), the digest markdown and HTML, the new files under `figures/`, and the edited `render_email.py`. `candidates.json` is gitignored — do not commit it.
 
