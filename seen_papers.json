@@ -1410,6 +1410,14 @@
       "date_reported": "2026-09-08",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41467-026-75862-4",
+      "pmid": "42702629",
+      "title": "Targeting m6A writer METTL3 with engineered nanovesicles reduces neuroinflammation in vitro and in vivo",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-07",
+      "section": "tier_b"
     }
   ],
   "last_updated": "2026-09-09"

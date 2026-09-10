@@ -6,12 +6,17 @@ filters, drops anything already in seen_papers.json, and writes the surviving
 candidates to candidates.json for summarization.
 
 Filtering by PubMed *entry* date (edat), not publication date.
+
+Note that this **updates seen_papers.json in place** before filtering, by
+unioning in the copy held on every other origin/* branch — see
+reconcile_seen() for why that is necessary.
 """
 import argparse
 import datetime as dt
 import json
 import pathlib
 import re
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -211,10 +216,77 @@ def norm_rxiv(item, server):
     }
 
 
+def _ids(paper):
+    return {str(v).lower() for v in (paper.get("doi"), paper.get("pmid")) if v}
+
+
+def reconcile_seen(seen_path):
+    """Union every origin/* branch's seen_papers.json into the local copy.
+
+    Each scheduled run is checked out on its own fresh per-session branch and
+    pushes there; those branches are not merged back. So the seen_papers.json
+    in a new checkout is routinely several runs stale, and deduping against it
+    alone re-sends papers that already went out days earlier — which is exactly
+    what happened across 2026-09-03..09-08, when four consecutive runs each
+    started from the same 92-paper baseline and re-reported each other.
+
+    Best effort: any git or parse failure leaves the local file untouched
+    rather than breaking the run.
+    """
+    def git(*args, timeout=120):
+        return subprocess.run(["git", *args], cwd=HERE, capture_output=True,
+                              text=True, timeout=timeout)
+
+    try:
+        git("fetch", "origin", "--prune")
+        refs = git("for-each-ref", "--format=%(refname:short)",
+                   "refs/remotes/origin", timeout=30).stdout.split()
+    except Exception as exc:
+        print(f"  reconcile skipped ({exc})", file=sys.stderr)
+        return
+
+    local = json.loads(seen_path.read_text()) if seen_path.exists() else {"papers": []}
+    papers = local.setdefault("papers", [])
+    index = {i: p for p in papers for i in _ids(p)}
+
+    added = backdated = 0
+    for ref in refs:
+        try:
+            out = git("show", f"{ref}:seen_papers.json", timeout=30)
+            if out.returncode != 0:
+                continue
+            incoming = json.loads(out.stdout).get("papers", [])
+        except Exception:
+            continue
+        for p in incoming:
+            pid = _ids(p)
+            if not pid:
+                continue
+            hit = next((index[i] for i in pid if i in index), None)
+            if hit is None:
+                papers.append(p)
+                index.update({i: p for i in pid})
+                added += 1
+            else:
+                # keep the date the paper first went out, not the latest re-report
+                new, old = p.get("date_reported"), hit.get("date_reported")
+                if new and (not old or new < old):
+                    hit["date_reported"] = new
+                    backdated += 1
+
+    if added or backdated:
+        seen_path.write_text(json.dumps(local, indent=2))
+    print(f"  reconciled seen_papers across {len(refs)} branches: "
+          f"+{added} papers, {backdated} back-dated, total {len(papers)}",
+          file=sys.stderr)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", help="digest date YYYY-MM-DD (default: today)")
     ap.add_argument("--days", type=int, help="override lookback window in days")
+    ap.add_argument("--no-reconcile", action="store_true",
+                    help="skip unioning seen_papers.json from other origin/* branches")
     args = ap.parse_args()
 
     today = dt.date.fromisoformat(args.date) if args.date else dt.date.today()
@@ -227,10 +299,12 @@ def main():
     print(f"Window: {rx_min} .. {rx_max} ({days}d, {today:%A})", file=sys.stderr)
 
     seen_path = HERE / "seen_papers.json"
+    if not args.no_reconcile:
+        reconcile_seen(seen_path)
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {"papers": []}
     seen_ids = set()
     for p in seen.get("papers", []):
-        seen_ids.update(str(v).lower() for v in (p.get("doi"), p.get("pmid")) if v)
+        seen_ids.update(_ids(p))
 
     def is_new(rec):
         return not any(str(v).lower() in seen_ids
