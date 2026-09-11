@@ -59,6 +59,11 @@ FIGURES = {
     "10.1016/S1474-4422(26)00313-3": "2026-09-10-fig3-ptau217.png",
     "10.1016/S1474-4422(26)00277-2": "2026-09-10-fig4-himalaya.png",
     "10.1038/s41586-026-10876-y":    "2026-09-10-fig5-sstchodl.png",
+    "10.1002/alz.71713":             "2026-09-11-fig1-tmem106b-tdp43.png",
+    "10.1093/brain/awag307":         "2026-09-11-fig2-brain-marrow-stroke.png",
+    "10.1186/s13024-026-00990-w":    "2026-09-11-fig3-elovl2-retina-aging.png",
+    "10.1016/j.cell.2026.08.022":    "2026-09-11-fig4-serotonin-projectome.png",
+    "10.1016/j.neuron.2026.08.007":  "2026-09-11-fig5-nac-social-autism.png",
 }
 
 
