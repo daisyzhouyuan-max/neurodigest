@@ -1836,7 +1836,111 @@
       "date_reported": "2026-09-14",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.08.010",
+      "pmid": "42735686",
+      "title": "Loss of interruption in the HTT CAG repeat is associated with somatic expansion and loss of medium spiny neurons in Huntington's disease.",
+      "journal": "Neuron",
+      "date_reported": "2026-09-15",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s43587-026-01207-x",
+      "pmid": "42736449",
+      "title": "A microprotein atlas of the human frontal cortex in Alzheimer's disease.",
+      "journal": "Nat Aging",
+      "date_reported": "2026-09-15",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-76725-8",
+      "pmid": "42733006",
+      "title": "TogoPhosTAC as a delivery-ready platform for targeted protein dephosphorylation.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-15",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02446-2",
+      "pmid": "42736415",
+      "title": "Simultaneous speech and gesture decoding for multimodal communication in paralysis.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-15",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-76775-y",
+      "pmid": "42736305",
+      "title": "Myeloid cell replacement induces intercellular mitochondrial transfer and restores metabolism in a mouse model of mitochondrial disease.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-15",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s43587-026-01215-x",
+      "pmid": "42736450",
+      "title": "Large-scale mapping of microproteins in the aged human brain.",
+      "journal": "Nat Aging",
+      "date_reported": "2026-09-15",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02435-5",
+      "pmid": "42736416",
+      "title": "Overlapping representations in the ventral hippocampus support rapid fear memory retrieval.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-15",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.08.012",
+      "pmid": "42735685",
+      "title": "Amygdalostriatal transition zone neurons encode sustained cue responses to guide defensive behaviors.",
+      "journal": "Neuron",
+      "date_reported": "2026-09-15",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/ana.78352",
+      "pmid": "42734212",
+      "title": "Circulating Exosomes Drive Persistent Neuronal Dysfunction in Post-Herpetic Neuralgia Patients.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-15",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-76685-z",
+      "pmid": "42736278",
+      "title": "CD36-mediated lipid-accumulation in reactive microglia contributes to retinal degeneration via the NLRP3-IL-1β pathway in mice.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-15",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70540",
+      "pmid": "42734088",
+      "title": "A De Novo 16p13.3 Triplication Underlying Early-Onset Complex Neurodegeneration.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-15",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1093/brain/awag312",
+      "pmid": "42740517",
+      "title": "Modelling the effect of ventricular expansion on white matter in normal pressure hydrocephalus.",
+      "journal": "Brain",
+      "date_reported": "2026-09-15",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1093/brain/awag314",
+      "pmid": "42740541",
+      "title": "Brain fluorodeoxyglucose PET anatomical segmentation via AI: extensive validation in the neurodegenerative spectrum.",
+      "journal": "Brain",
+      "date_reported": "2026-09-15",
+      "section": "tier_b"
     }
   ],
-  "last_updated": "2026-09-14"
+  "last_updated": "2026-09-15"
 }

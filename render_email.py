@@ -69,6 +69,11 @@ FIGURES = {
     "10.1007/s00401-026-03073-8":    "2026-09-14-fig3-locus-coeruleus.png",
     "10.1038/s41591-026-04635-9":    "2026-09-14-fig4-resilience.png",
     "10.1002/ana.78321":             "2026-09-14-fig5-ascvd-als.png",
+    "10.1016/j.neuron.2026.08.010":  "2026-09-15-fig1-hd-expansion.png",
+    "10.1038/s43587-026-01207-x":    "2026-09-15-fig2-microprotein-ad.png",
+    "10.1038/s41467-026-76725-8":    "2026-09-15-fig3-togophostac-tau.png",
+    "10.1038/s41593-026-02446-2":    "2026-09-15-fig4-bci-speech-gesture.png",
+    "10.1038/s41467-026-76775-y":    "2026-09-15-fig5-friedreich-mito.png",
 }
 
 
