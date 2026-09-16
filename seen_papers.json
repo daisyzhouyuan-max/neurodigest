@@ -1940,7 +1940,132 @@
       "journal": "Brain",
       "date_reported": "2026-09-15",
       "section": "tier_b"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.037",
+      "pmid": "42743926",
+      "title": "Gliomas phenocopy an inborn error of metabolism to drive neuronal activity and tumor growth.",
+      "journal": "Cell",
+      "date_reported": "2026-09-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-11139-6",
+      "pmid": "42744304",
+      "title": "Quality control of glycogen through direct ubiquitylation by RNF213.",
+      "journal": "Nature",
+      "date_reported": "2026-09-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-76728-5",
+      "pmid": "42744804",
+      "title": "Microglia deploy TAM receptors to kill motor neurons in a mouse model of amyotrophic lateral sclerosis.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag311",
+      "pmid": "42744302",
+      "title": "The longevity gene APOE2 enhances pericyte function and reduces lipid droplets.",
+      "journal": "Brain",
+      "date_reported": "2026-09-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02444-4",
+      "pmid": "42744905",
+      "title": "Intracranial recordings in humans reveal differential contributions of medial and lateral orbitofrontal cortex to approach-avoidance decision-making.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-16",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1523/JNEUROSCI.1862-24.2026",
+      "pmid": "42744615",
+      "title": "Visualizing synaptic disruptions in the release and regulation of dopamine hotspots in Huntington's Disease.",
+      "journal": "J Neurosci",
+      "date_reported": "2026-09-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1093/brain/awag274",
+      "pmid": "42744305",
+      "title": "Anti-CD40L prevents meningeal B cell aggregates and mitigates progressive autoimmune encephalomyelitis.",
+      "journal": "Brain",
+      "date_reported": "2026-09-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71833",
+      "pmid": "42741981",
+      "title": "Genetic and molecular evidence linking CTSH to Alzheimer's disease pathophysiology.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71832",
+      "pmid": "42745216",
+      "title": "MARBLE: An in vivo MRI marker of limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC).",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70499",
+      "pmid": "42742595",
+      "title": "Efficacy and Safety of DL-3-n-Butylphthalide in Spinocerebellar Ataxia Type 3.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.09.09.750343",
+      "pmid": null,
+      "title": "SNCA triplication shapes neuronal extracellular vesicle biology and promotes microglial activation in patient-derived iPSC-based models of Parkinson's disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.15.750223",
+      "pmid": null,
+      "title": "mTOR disrupts cerebrovascular RNA regulatory networks in Alzheimers disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.10.750611",
+      "pmid": null,
+      "title": "Intergenerational instability of the C9orf72 hexanucleotide repeat",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.09.750469",
+      "pmid": null,
+      "title": "NaV1.7-dependent peripheral sensitization drives chronic pain in Parkinson's disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.10.750525",
+      "pmid": null,
+      "title": "Regional choroid plexus calcifications and their associations with aging, brain structure, and disease",
+      "journal": "bioRxiv",
+      "date_reported": "2026-09-16",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-09-15"
+  "last_updated": "2026-09-16"
 }

@@ -74,6 +74,10 @@ FIGURES = {
     "10.1038/s41467-026-76725-8":    "2026-09-15-fig3-togophostac-tau.png",
     "10.1038/s41593-026-02446-2":    "2026-09-15-fig4-bci-speech-gesture.png",
     "10.1038/s41467-026-76775-y":    "2026-09-15-fig5-friedreich-mito.png",
+    "10.1016/j.cell.2026.08.037":    "2026-09-16-fig1-glioma-gaa.png",
+    "10.1038/s41586-026-11139-6":    "2026-09-16-fig2-rnf213-glycogen.png",
+    "10.1038/s41467-026-76728-5":    "2026-09-16-fig3-als-microglia-tam.png",
+    "10.1093/brain/awag311":         "2026-09-16-fig4-apoe2-pericyte.png",
 }
 
 
