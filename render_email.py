@@ -78,6 +78,11 @@ FIGURES = {
     "10.1038/s41586-026-11139-6":    "2026-09-16-fig2-rnf213-glycogen.png",
     "10.1038/s41467-026-76728-5":    "2026-09-16-fig3-als-microglia-tam.png",
     "10.1093/brain/awag311":         "2026-09-16-fig4-apoe2-pericyte.png",
+    "10.1038/s41591-026-04665-3":    "2026-09-17-fig1-ebv-ms-relapse.png",
+    "10.1038/s41586-026-11032-2":    "2026-09-17-fig2-xenocortication.png",
+    "10.1038/s41593-026-02449-z":    "2026-09-17-fig3-cerebellar-dopamine.png",
+    "10.1038/s41467-026-76565-6":    "2026-09-17-fig4-apoe-lipid-droplet.png",
+    "10.1038/s41591-026-04662-6":    "2026-09-17-fig5-sex-aging-clocks.png",
 }
 
 

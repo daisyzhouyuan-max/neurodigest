@@ -2065,7 +2065,135 @@
       "date_reported": "2026-09-16",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41591-026-04665-3",
+      "pmid": "42749888",
+      "title": "EBV reactivation priming of the peripheral immune system in multiple sclerosis relapse.",
+      "journal": "Nat Med",
+      "date_reported": "2026-09-17",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-11032-2",
+      "pmid": "42749812",
+      "title": "Developmental xenocortication using human-derived organoids in mice.",
+      "journal": "Nature",
+      "date_reported": "2026-09-17",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02449-z",
+      "pmid": "42749823",
+      "title": "Predictive and instructive cerebellar encoding of dopamine reward drives motivated behavior.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-17",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41467-026-76565-6",
+      "pmid": "42749735",
+      "title": "APOE genotypes differentially remodel the astrocytic lipid droplet proteome to shape lipid droplet dynamics.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-17",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41591-026-04662-6",
+      "pmid": "42749890",
+      "title": "Sex-specific biological aging clocks across organs and omics.",
+      "journal": "Nat Med",
+      "date_reported": "2026-09-17",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02448-0",
+      "pmid": "42749824",
+      "title": "Hippocampal astrocytic sequences emerge during learning and memory recall.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-11014-4",
+      "pmid": "42749810",
+      "title": "A retinoic acid autoregulatory loop governing prefrontal-motor arealization.",
+      "journal": "Nature",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-11026-0",
+      "pmid": "42749800",
+      "title": "Topographic structure and function of locus coeruleus noradrenaline neurons.",
+      "journal": "Nature",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-11110-5",
+      "pmid": "42749285",
+      "title": "Inflection points and transitions in Alzheimer's disease.",
+      "journal": "Nature",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.stem.2026.08.012",
+      "pmid": "42748922",
+      "title": "H3K27M drives OPC stemness and intrathecal therapeutic vulnerability in brainstem glioma organoids.",
+      "journal": "Cell Stem Cell",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.08.016",
+      "pmid": "42748918",
+      "title": "Local sympathetic signal enables the immune evasion of hepatic stellate cells.",
+      "journal": "Neuron",
+      "date_reported": "2026-09-17",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71825",
+      "pmid": "42750154",
+      "title": "Hippocampal snRNA-seq in Collaborative Cross reveals molecular signatures of cognitive resilience independent of chronological aging.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-17",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78357",
+      "pmid": "42747246",
+      "title": "Alzheimer's Co-Pathology Burden on Basal Forebrain Atrophy and Cognitive Impairment in Dementia with Lewy Bodies: A Cross-Sectional Pilot Study.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-09-17",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71867",
+      "pmid": "42750203",
+      "title": "Rethinking tau-targeted therapy in Alzheimer's disease: Toward a dual biomarker strategy.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-17",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-77423-1",
+      "pmid": "42749740",
+      "title": "Cholesterol maintains the degradative capacity of lysosomes during clearance and recycling of dysfunctional mitochondria.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-09-17",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218521",
+      "pmid": "42748394",
+      "title": "Factor XIa Inhibitors for Secondary Prevention After Noncardioembolic Stroke: A Systematic Review and Meta-Analysis.",
+      "journal": "Neurology",
+      "date_reported": "2026-09-17",
+      "section": "tier_b"
     }
   ],
-  "last_updated": "2026-09-16"
+  "last_updated": "2026-09-17"
 }
