@@ -83,6 +83,10 @@ FIGURES = {
     "10.1038/s41593-026-02449-z":    "2026-09-17-fig3-cerebellar-dopamine.png",
     "10.1038/s41467-026-76565-6":    "2026-09-17-fig4-apoe-lipid-droplet.png",
     "10.1038/s41591-026-04662-6":    "2026-09-17-fig5-sex-aging-clocks.png",
+    "10.1038/s41591-026-04646-6":    "2026-09-18-fig1-levetiracetam-dmg.png",
+    "10.1016/j.stem.2026.08.014":    "2026-09-18-fig2-ipsc-parkinsons.png",
+    "10.1126/science.adz6688":       "2026-09-18-fig3-asd-transcriptome.png",
+    "10.1016/j.neuron.2026.08.015":  "2026-09-18-fig4-brainstem-interoception.png",
 }
 
 
