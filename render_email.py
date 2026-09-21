@@ -87,6 +87,11 @@ FIGURES = {
     "10.1016/j.stem.2026.08.014":    "2026-09-18-fig2-ipsc-parkinsons.png",
     "10.1126/science.adz6688":       "2026-09-18-fig3-asd-transcriptome.png",
     "10.1016/j.neuron.2026.08.015":  "2026-09-18-fig4-brainstem-interoception.png",
+    "10.1038/s41593-026-02433-7":    "2026-09-21-fig1-progenitors.png",
+    "10.1016/j.neuron.2026.08.022":  "2026-09-21-fig2-mir10a.png",
+    "10.1126/sciadv.adx0731":        "2026-09-21-fig3-pdl1.png",
+    "10.1038/s41467-026-76837-1":    "2026-09-21-fig4-childdementia.png",
+    "10.1038/s41593-026-02437-3":    "2026-09-21-fig5-consensus.png",
 }
 
 
