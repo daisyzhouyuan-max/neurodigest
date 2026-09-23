@@ -96,6 +96,10 @@ FIGURES = {
     "10.1126/sciadv.adx0731":        "2026-09-21-fig3-pdl1.png",
     "10.1038/s41467-026-76837-1":    "2026-09-21-fig4-childdementia.png",
     "10.1038/s41593-026-02437-3":    "2026-09-21-fig5-consensus.png",
+    "10.1038/s41591-026-04648-4":    "2026-09-23-fig1-menopause.png",
+    "10.1038/s41467-026-76817-5":    "2026-09-23-fig2-bcell-microglia.png",
+    "10.1016/j.immuni.2026.08.012":  "2026-09-23-fig3-neuroimmune-memory.png",
+    "10.1002/ana.78367":             "2026-09-23-fig4-ad-resilience.png",
 }
 
 
