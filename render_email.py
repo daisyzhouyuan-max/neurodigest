@@ -100,6 +100,11 @@ FIGURES = {
     "10.1038/s41467-026-76817-5":    "2026-09-23-fig2-bcell-microglia.png",
     "10.1016/j.immuni.2026.08.012":  "2026-09-23-fig3-neuroimmune-memory.png",
     "10.1002/ana.78367":             "2026-09-23-fig4-ad-resilience.png",
+    "10.1038/s41586-025-09573-z":    "2026-09-24-fig1-brain-vulnerability-atlas.png",
+    "10.1038/s41586-026-10271-7":    "2026-09-24-fig2-lifespan-cortex-atlas.png",
+    "10.1038/s41586-026-11054-w":    "2026-09-24-fig3-tsc-astrocyte.png",
+    "10.1126/scitranslmed.aei2870":  "2026-09-24-fig4-k9-ms.png",
+    "10.1126/sciadv.aeg8117":        "2026-09-24-fig5-aqp4-glymphatic.png",
 }
 
 

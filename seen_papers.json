@@ -2719,7 +2719,152 @@
       "date_reported": "2026-09-23",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.04.07.26350339",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": null,
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41586-025-09573-z",
+      "pmid": "42778699",
+      "title": "Single-cell atlas of transcriptomic vulnerability across brain disorders.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-10271-7",
+      "pmid": "42778698",
+      "title": "Lifespan single-cell transcriptomic atlas of the human prefrontal cortex.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-11054-w",
+      "pmid": "42778607",
+      "title": "mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/scitranslmed.aei2870",
+      "pmid": "42777081",
+      "title": "The nucleoside analog kamuvudine-9 shows protective and therapeutic efficacy in a mouse model of multiple sclerosis.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-09-24",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/sciadv.aeg8117",
+      "pmid": "42777040",
+      "title": "Spatial organization of AQP4 water channel expression in the human brain.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-09-24",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41591-025-04128-1",
+      "pmid": "42778763",
+      "title": "AI-based characterization of Alzheimer's disease phenotypes from population-scale single-cell data.",
+      "journal": "Nat Med",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02454-2",
+      "pmid": "42778716",
+      "title": "Massively parallel assessment of gene regulatory activity at human cortical-structure-associated variants.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-10836-6",
+      "pmid": "42778697",
+      "title": "Single-nucleus transcriptome-wide association study of human brain disorders.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-11041-1",
+      "pmid": "42778611",
+      "title": "Neuronal detection of social actions directs collective escape behaviour.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41586-026-11050-0",
+      "pmid": "42778605",
+      "title": "The lipidomic architecture of the mouse brain.",
+      "journal": "Nature",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.046",
+      "pmid": "42777707",
+      "title": "Projection-defined modules reveal mouse motor cortex architecture.",
+      "journal": "Cell",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/scitranslmed.aeh7968",
+      "pmid": "42777082",
+      "title": "CXCL1-CXCR2 signaling mediates cancer cell growth and response to radiation therapy in leptomeningeal metastasis.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-09-24",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218554",
+      "pmid": "42777184",
+      "title": "Long-Term Risk of Dementia After TIA: A Population-Wide Matched Cohort Study.",
+      "journal": "Neurology",
+      "date_reported": "2026-09-24",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71853",
+      "pmid": "42773862",
+      "title": "Synergistic association of insomnia and anxiety with cognitive impairment and dementia in older adults.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-24",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71810",
+      "pmid": "42779047",
+      "title": "Distinct single-nucleus RNA-seq changes among non-neuronal cells in ADNC, LATE-NC, and mixed pathologies.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-09-24",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70518",
+      "pmid": "42778501",
+      "title": "Association Between Long-Term Exposure to Air Pollution and Parkinson's Disease: Administrative Cohort of Older Adults in South Korea.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-09-24",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1126/sciadv.aef3787",
+      "pmid": "42777020",
+      "title": "Beyond statistical thresholds: Mapping sequential ATN cascade transitions via brain structural topography in Alzheimer's disease.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-09-24",
+      "section": "tier_b"
     }
   ],
-  "last_updated": "2026-09-23"
+  "last_updated": "2026-09-24"
 }
