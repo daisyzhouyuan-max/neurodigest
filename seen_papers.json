@@ -3109,7 +3109,165 @@
    "date_reported": "2026-09-28",
    "section": "preprint",
    "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.04.07.26350339",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": null,
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.030",
+   "pmid": "42805185",
+   "title": "Peripheral CXCR3 blockade mitigates T cell infiltration and neurodegeneration in a mouse model of tauopathy.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1073/pnas.2528514123",
+   "pmid": "42804638",
+   "title": "BAG3 coordinates astrocytic proteostasis of Alzheimer's disease-linked proteins via proteasome, autophagy, and retromer interactions.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-09-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1093/brain/awag334",
+   "pmid": "42803299",
+   "title": "LRSAM1, an E3 ubiquitin ligase, modulates TDP-43 proteostasis in amyotrophic lateral sclerosis.",
+   "journal": "Brain",
+   "date_reported": "2026-09-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.09.005",
+   "pmid": "42805175",
+   "title": "Non-invasive control of gene editing in vivo by photoswitchable Cas12f and focused ultrasound.",
+   "journal": "Cell",
+   "date_reported": "2026-09-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1002/mds.70553",
+   "pmid": "42806694",
+   "title": "α-Synuclein Seeding Discriminates Between LRRK2 G2019S Variant Carriers with and Without Parkinson's Disease.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-09-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.029",
+   "pmid": "42805184",
+   "title": "A molecular and spinal circuit basis for the functional segregation of itch and pain.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.028",
+   "pmid": "42805182",
+   "title": "A microglial SPP1-ITGB1 feedback loop sustains thalamic hyperexcitability and post-stroke pain.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.026",
+   "pmid": "42805183",
+   "title": "Exponentiated gradient learning yields brain-like synaptic distributions.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1002/alz.71888",
+   "pmid": "42805933",
+   "title": "GLP-1R agonist semaglutide protects human forebrain organoids from cholesterol-induced neurotoxicity.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-09-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1093/brain/awag336",
+   "pmid": "42803308",
+   "title": "Sub-second and multi-second dopamine dynamics underlie variability in human time perception.",
+   "journal": "Brain",
+   "date_reported": "2026-09-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71887",
+   "pmid": "42805946",
+   "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p-tau217 assay in routine clinical practice.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-09-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1073/pnas.2622558123",
+   "pmid": "42804623",
+   "title": "Masking phosphatidylserine prevents neuronal loss in two distinct Drosophila models of neurodegeneration.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-09-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71869",
+   "pmid": "42805938",
+   "title": "Integrative prediction of Alzheimer's disease and related dementias using multi-omics aging clocks and genetic data.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-09-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.27.754777",
+   "pmid": null,
+   "title": "CAR T cell targeting of inflammatory myeloid progenitors in the bone marrow remodels border-associated macrophages and reverses cognitive aging",
+   "journal": null,
+   "date_reported": "2026-09-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.22.751740",
+   "pmid": null,
+   "title": "α-Synuclein Seeding in Dopaminergic Neurons Transplanted into the Putamen of Parkinson's Disease Patients",
+   "journal": null,
+   "date_reported": "2026-09-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.23.752284",
+   "pmid": null,
+   "title": "Endosomal pH Triggers Amyloid β Oligomerization and Maladaptive Phenotypic Plasticity in Alzheimers Disease",
+   "journal": null,
+   "date_reported": "2026-09-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1101/2020.08.11.245688",
+   "pmid": null,
+   "title": "Lysosomal microautophagic pathway links proteostasis to protein aggregation disease",
+   "journal": null,
+   "date_reported": "2026-09-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.23.753732",
+   "pmid": null,
+   "title": "Early life social isolation primes flies for more rapid TDP-43 dependent neurodegeneration later in life.",
+   "journal": null,
+   "date_reported": "2026-09-29",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-09-28"
+ "last_updated": "2026-09-29"
 }
