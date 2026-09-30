@@ -3111,10 +3111,10 @@
    "server": "medrxiv"
   },
   {
-   "doi": "10.64898/2026.04.07.26350339",
+   "doi": "10.1038/s41598-026-69898-1",
    "pmid": null,
    "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
-   "journal": null,
+   "journal": "Sci Rep",
    "date_reported": "2026-09-01",
    "section": "preprint",
    "server": "medrxiv"
@@ -3267,7 +3267,164 @@
    "date_reported": "2026-09-29",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.005",
+   "pmid": "42810344",
+   "title": "Cervical lymphadenectomy impairs brain lymphatic clearance and synaptic proteostasis.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-30",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.09.013",
+   "pmid": "42810339",
+   "title": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells.",
+   "journal": "Cell",
+   "date_reported": "2026-09-30",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.008",
+   "pmid": "42810345",
+   "title": "An African ancestry-enriched H1 sub-haplotype challenges MAPT haplotype assignment and reveals distinct tau regulatory programs.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-30",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77353-y",
+   "pmid": "42811035",
+   "title": "Acute viral infection accelerates neurodegeneration in a mouse model of ALS.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-09-30",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02460-4",
+   "pmid": "42811119",
+   "title": "Comprehensive profiling of brain dynamics during anesthesia across phylogeny.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-09-30",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02456-0",
+   "pmid": "42811118",
+   "title": "A neural architecture for imagined and overt speech motor dynamics.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-09-30",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.007",
+   "pmid": "42810347",
+   "title": "OpenFISH enables same-section spatial transcriptomics and MALDI-MSI integration.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-30",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.009",
+   "pmid": "42810346",
+   "title": "Time-resolved spectral parameterization: Recommendations and guidelines.",
+   "journal": "Neuron",
+   "date_reported": "2026-09-30",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.immuni.2026.09.002",
+   "pmid": "42810333",
+   "title": "Microglia with distinct origins and non-canonical phenotypes coexist within the border-like niche of the brain's circumventricular organs.",
+   "journal": "Immunity",
+   "date_reported": "2026-09-30",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1186/s13024-026-00986-6",
+   "pmid": "42811341",
+   "title": "The YTHDF proteins modulate Alzheimer's disease-associated brain gene signatures.",
+   "journal": "Mol Neurodegener",
+   "date_reported": "2026-09-30",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71891",
+   "pmid": "42811946",
+   "title": "Excitation-inhibition imbalance links amyloid pathophysiology to cognition in non-demented individuals.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-09-30",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-76159-2",
+   "pmid": "42811006",
+   "title": "Injury-transduced oligodendrocytes modulate neuroinflammation and glial activation in diseased and non-diseased central nervous system.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-09-30",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218511",
+   "pmid": "42809801",
+   "title": "Disease Progression in Iatrogenic Cerebral Amyloid Angiopathy.",
+   "journal": "Neurology",
+   "date_reported": "2026-09-30",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-77174-z",
+   "pmid": "42805990",
+   "title": "In-silico solute transport via perivascular networks in the human intracranial space.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-09-30",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.22.26363432",
+   "pmid": null,
+   "title": "Gantenerumab reduces brain amyloid-β proteoforms: Biochemical evaluation in dominantly inherited Alzheimer disease",
+   "journal": "medRxiv",
+   "date_reported": "2026-09-30",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.28.26364155",
+   "pmid": null,
+   "title": "Plasma immune signatures associate with neurodegeneration in frontotemporal lobar degeneration",
+   "journal": "medRxiv",
+   "date_reported": "2026-09-30",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.22.753400",
+   "pmid": null,
+   "title": "Toxicity of MAPT 4R RNA Contributes to Motor Neuron Degeneration in ALS",
+   "journal": "bioRxiv",
+   "date_reported": "2026-09-30",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.23.753804",
+   "pmid": null,
+   "title": "Endogenous SMN Heterogeneity Defines Dynamic States of Motor Neuron Vulnerability and Resilience",
+   "journal": "bioRxiv",
+   "date_reported": "2026-09-30",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.26.754656",
+   "pmid": null,
+   "title": "The astrocytic secretome increases adult hippocampal neurogenesis and spatial memory in health and disease",
+   "journal": "bioRxiv",
+   "date_reported": "2026-09-30",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-09-29"
+ "last_updated": "2026-09-30"
 }
