@@ -124,7 +124,7 @@ A paper promoted to Top Papers does not also appear in its tier section.
 
 ---
 
-## TIER A — ALL NEW NEUROSCIENCE
+## NEURODEGENERATION & AGING — TOP 5
 
 ### [Title]
 **[First author] & [Last author] | [Journal]**
@@ -137,7 +137,7 @@ A paper promoted to Top Papers does not also appear in its tier section.
 
 ---
 
-## NEURODEGENERATION & AGING — TOP 5
+## TIER A — ALL NEW NEUROSCIENCE
 
 [same format]
 
