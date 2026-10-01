@@ -321,13 +321,17 @@ def render(md):
         # masthead
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
         f'style="border-collapse:separate;margin:0 0 22px"><tr><td '
-        f'style="background:{ACCENT};border-radius:7px;padding:24px 24px 20px">'
+        # Light masthead on purpose: several mail clients drop a td background
+        # colour, and white-on-dropped-navy rendered as invisible white-on-white.
+        # Dark ink on a light card stays readable either way.
+        f'style="background:{CARD_BG};border:1px solid {RULE};border-top:3px solid {ACCENT};'
+        f'border-radius:7px;padding:22px 24px 20px">'
         f'<div style="font-family:{SANS};font-size:11px;font-weight:700;'
-        f'letter-spacing:.16em;text-transform:uppercase;color:#a8c4d4;'
+        f'letter-spacing:.16em;text-transform:uppercase;color:{ACCENT};'
         f'margin:0 0 7px">Neuro digest</div>'
         f'<div style="font-family:{SERIF};font-size:24px;font-weight:700;'
-        f'color:#ffffff;line-height:1.25">{html.escape(pretty_date)}</div>'
-        f'<div style="font-family:{SANS};font-size:13px;color:#c3d7e2;'
+        f'color:{INK};line-height:1.25">{html.escape(pretty_date)}</div>'
+        f'<div style="font-family:{SANS};font-size:13px;color:{MUTED};'
         f'margin:8px 0 0">{html.escape(count)} new papers and preprints</div>'
         f'</td></tr></table>',
     ]
