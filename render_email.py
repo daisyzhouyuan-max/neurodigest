@@ -18,6 +18,9 @@ ACCENT = "#26485f"
 RULE = "#e6e8eb"
 PAGE_BG = "#f4f6f7"
 CARD_BG = "#ffffff"
+# Content column width. Wider than the usual ~660px email column so the digest
+# fills a desktop reading pane instead of a narrow centre strip.
+MAX_W = 960
 AMBER_BG = "#fdf6e3"
 AMBER_INK = "#8a6100"
 AMBER_RULE = "#e8d9ae"
@@ -253,9 +256,12 @@ def render_paper(paper, number=None):
 
     num = ""
     if number:
-        num = (f'<span style="display:inline-block;width:24px;height:24px;'
-               f'line-height:24px;text-align:center;background:{ACCENT};'
-               f'color:#fff;border-radius:12px;font-size:12px;'
+        # Outlined, not filled: clients that drop the background colour used to
+        # render this as white-on-white, losing the rank number entirely.
+        num = (f'<span style="display:inline-block;width:22px;height:22px;'
+               f'line-height:22px;text-align:center;background:{PAGE_BG};'
+               f'border:1px solid {ACCENT};color:{ACCENT};border-radius:12px;'
+               f'font-size:12px;font-family:{SANS};'
                f'font-weight:700;margin-right:9px;vertical-align:2px">{number}</span>')
 
     title = (f'<h3 style="margin:0 0 9px;font-family:{SERIF};font-size:19px;'
@@ -315,9 +321,9 @@ def render(md):
         pretty_date = date_str
 
     parts = [
-        f'<div style="background:{PAGE_BG};padding:26px 12px;">',
+        f'<div style="background:{PAGE_BG};padding:22px 10px;">',
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
-        f'style="max-width:660px;margin:0 auto;border-collapse:collapse"><tr><td>',
+        f'style="max-width:{MAX_W}px;margin:0 auto;border-collapse:collapse"><tr><td>',
         # masthead
         f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
         f'style="border-collapse:separate;margin:0 0 22px"><tr><td '
