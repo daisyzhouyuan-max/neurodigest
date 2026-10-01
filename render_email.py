@@ -44,6 +44,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41586-026-11061-x":    "2026-10-01-fig1-tau-strains.png",
+    "10.1016/j.neuron.2026.09.001":  "2026-10-01-fig2-tmem119-microglia.png",
+    "10.1038/s41593-026-02436-4":    "2026-10-01-fig3-hippocampus-semantics.png",
+    "10.1126/scitranslmed.aef5898":  "2026-10-01-fig4-ctbi-monocytes.png",
+    "10.1038/s41586-026-11082-6":    "2026-10-01-fig5-meningeal-lymphatics.png",
     "10.1038/s41593-026-02460-4":    "2026-09-30-fig1-anesthesia-phylogeny.png",
     "10.1016/j.neuron.2026.09.008":  "2026-09-30-fig2-mapt-h1a-tau.png",
     "10.1016/j.neuron.2026.09.005":  "2026-09-30-fig3-lymph-clearance.png",

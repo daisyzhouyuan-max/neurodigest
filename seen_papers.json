@@ -3424,7 +3424,199 @@
    "date_reported": "2026-09-30",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "published",
+   "server": "medrxiv",
+   "note": "published version; original preprint DOI 10.64898/2026.04.07.26350339; published title not yet indexed in PubMed",
+   "date_published_reported": "2026-10-01"
+  },
+  {
+   "doi": "10.1038/s41586-026-11061-x",
+   "pmid": "42816607",
+   "title": "Prion-like transmission of human tau strains in the mouse brain.",
+   "journal": "Nature",
+   "date_reported": "2026-10-01",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.001",
+   "pmid": "42815471",
+   "title": "A TMEM119-tankyrase axis restrains microglial phagocytosis to maintain memory and enables pharmacological forgetting.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-01",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02436-4",
+   "pmid": "42816555",
+   "title": "A population code for semantics in human hippocampus.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-01",
+   "section": "top"
+  },
+  {
+   "doi": "10.1126/scitranslmed.aef5898",
+   "pmid": "42814802",
+   "title": "Cranial bone marrow-derived monocytes promote neuroinflammation in chronic traumatic brain injury.",
+   "journal": "Sci Transl Med",
+   "date_reported": "2026-10-01",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41586-026-11082-6",
+   "pmid": "42816624",
+   "title": "Osteoclasts intercept meningeal lymphatic paths for dural metastasis.",
+   "journal": "Nature",
+   "date_reported": "2026-10-01",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41586-026-11075-5",
+   "pmid": "42816620",
+   "title": "An amygdala to anterior hypothalamic circuit gates stress sensitivity.",
+   "journal": "Nature",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11064-8",
+   "pmid": "42816613",
+   "title": "Spatiotemporal clonal architecture of the newborn mouse forebrain.",
+   "journal": "Nature",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11098-y",
+   "pmid": "42816609",
+   "title": "A two-hit mechanism triggers autoimmune hair loss.",
+   "journal": "Nature",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41593-026-02423-9",
+   "pmid": "42816554",
+   "title": "CLOK: a chemigenetic multicolor labeling system to visualize neuronal birthdate and circuit integration.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.031",
+   "pmid": "42815470",
+   "title": "Autism-associated SCN2A deficiency disrupts cortico-striatal circuitry in human brain assembloids.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.009",
+   "pmid": "42815469",
+   "title": "Purinergic receptor activation rectifies autism-associated endothelial dysfunction.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/scitranslmed.adw3644",
+   "pmid": "42814801",
+   "title": "Assessment of upper-limb motor recovery after stroke using a wrist-worn accelerometer digital biomarker.",
+   "journal": "Sci Transl Med",
+   "date_reported": "2026-10-01",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41467-026-76952-z",
+   "pmid": "42816467",
+   "title": "The default mode network exhibits circuit-specific selective vulnerability despite widespread amyloid burden in an animal model of Alzheimer's disease.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-01",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1126/sciadv.aee4525",
+   "pmid": "42814818",
+   "title": "Electronic profiling of neuronal extracellular vesicles enables early prediction of Parkinson's disease.",
+   "journal": "Sci Adv",
+   "date_reported": "2026-10-01",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71896",
+   "pmid": "42814409",
+   "title": "ZBP1-mediated Treg cell dysfunction exacerbates neuroimmune dysregulation in Alzheimer's disease under metabolic stress.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-01",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1093/brain/awag338",
+   "pmid": "42817178",
+   "title": "Endothelial Malat1 promotes post-stroke angiogenesis and neurovascular recovery via the Tek axis.",
+   "journal": "Brain",
+   "date_reported": "2026-10-01",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71842",
+   "pmid": "42811779",
+   "title": "Exposome-wide association study and predictive risk score for incident Alzheimer's disease and related dementias.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-01",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.24.754172",
+   "pmid": null,
+   "title": "Depletion of border-associated macrophages impairs CSF flow and exacerbates extranuclear mutant Huntingtin aggregation in the zQ175DN mouse model of Huntington disease",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-01",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.24.754224",
+   "pmid": null,
+   "title": "Selective nigrosome vulnerability in Parkinson's disease revealed by histology-anchored ultra-high-field quantitative MRI",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-01",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.02.05.26345503",
+   "pmid": null,
+   "title": "Transcriptomic profiling uncovers mis-splicing and fusion transcripts in ALS",
+   "journal": "medRxiv",
+   "date_reported": "2026-10-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.29.755429",
+   "pmid": null,
+   "title": "Genetic variation in EIF2AK3 alters astrocyte-dependent stress tolerance in neurons",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-01",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.24.753662",
+   "pmid": null,
+   "title": "Multimodal evidence for impaired glymphatic brain clearance as a mediator of \"inflammaging\" in schizophrenia",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-01",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-09-30"
+ "last_updated": "2026-10-01"
 }
