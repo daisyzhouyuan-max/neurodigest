@@ -3616,7 +3616,183 @@
    "date_reported": "2026-10-01",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv",
+   "published_doi": "10.1038/s41598-026-69898-1",
+   "date_published_reported": "2026-10-02"
+  },
+  {
+   "doi": "10.1038/s41593-026-02402-0",
+   "pmid": "42823476",
+   "title": "Different functional connectivity gradients reflect aging and Alzheimer's disease.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-02",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.002",
+   "pmid": "42822450",
+   "title": "Lateral hypothalamic control of the striatal dopamine landscape during consummatory behavior.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-02",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02457-z",
+   "pmid": "42823475",
+   "title": "A human-induced pluripotent stem cell-derived spheroid model to investigate myelin injury and repair.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-02",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77002-4",
+   "pmid": "42823411",
+   "title": "Dual effect of α-synuclein disease variants on condensate formation.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-02",
+   "section": "top"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218591",
+   "pmid": "42821845",
+   "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-02",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.011",
+   "pmid": "42822451",
+   "title": "Circuit mechanisms of psychotic symptoms across disorders.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-02",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.aeg5583",
+   "pmid": "42821699",
+   "title": "Precise length and charge segmentation of billion-dalton supramolecular polymers.",
+   "journal": "Science",
+   "date_reported": "2026-10-02",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.aeh4468",
+   "pmid": "42821694",
+   "title": "Sex-specific mechanisms of chronic pain.",
+   "journal": "Science",
+   "date_reported": "2026-10-02",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.aeh0145",
+   "pmid": "42821693",
+   "title": "X and Y chromosomes as determinants of aging and disease.",
+   "journal": "Science",
+   "date_reported": "2026-10-02",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.08.005",
+   "pmid": "42822452",
+   "title": "Toward a shared infrastructure for preclinical discovery: Why animal model tissue and biofluid biobanks are needed.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-02",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218583",
+   "pmid": "42821850",
+   "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-02",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-78144-1",
+   "pmid": "42816535",
+   "title": "Programmable DNA protonuclei reveal environmental context on protein phase separation.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-02",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70520",
+   "pmid": "42817906",
+   "title": "Timing of Deep Brain Stimulation and Cognitive Trajectories in GBA1-Associated Parkinson's Disease.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-02",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-77284-8",
+   "pmid": "42823442",
+   "title": "Pharmacological targeting of bunyavirus-induced synaptic impairment prevents neuronal hyperexcitability.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-02",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1073/pnas.2605806123",
+   "pmid": "42821349",
+   "title": "T-B interactions yield CD3+ B cells and CD20+ T cells with pathogenic features in multiple sclerosis.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-10-02",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.25.754367",
+   "pmid": null,
+   "title": "T1R2/T1R3 Identified as the Aβ Receptor: A New Mechanism Linking Aβ42/40 Ratio to Neuronal Hyperexcitability in Alzheimer's Disease",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-02",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1101/2024.02.28.582420",
+   "pmid": null,
+   "title": "Familial Parkinson's Disease Mutations Converge on Alternative Splicing Programs Linked to Lysosomal, Autophagic and Vesicle Trafficking Pathways",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-02",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.30.754737",
+   "pmid": null,
+   "title": "Extracellular cGAMP transmission exacerbates neuroinflammation in aging and multiple sclerosis",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-02",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.26.754222",
+   "pmid": null,
+   "title": "Nuclear acetyl-CoA accumulation drives reversible RBP hyperacetylation and transcriptome-wide splicing shifts in age-equivalent Alzheimer's disease neurons",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-02",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1101/2025.01.16.633478",
+   "pmid": null,
+   "title": "Wild type bone marrow-derived microglia-like cells mitigate strain-dependent neuropathology in Csf1r mutant mice.",
+   "journal": "bioRxiv",
+   "date_reported": "2026-10-02",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-10-01"
+ "last_updated": "2026-10-02"
 }

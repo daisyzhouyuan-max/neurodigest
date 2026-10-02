@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41593-026-02402-0":    "2026-10-02-fig1-fc-gradients-aging-ad.png",
+    "10.1016/j.neuron.2026.09.002":  "2026-10-02-fig2-lha-dopamine-landscape.png",
+    "10.1038/s41593-026-02457-z":    "2026-10-02-fig3-ipsc-myelin-spheroid.png",
+    "10.1038/s41467-026-77002-4":    "2026-10-02-fig4-asyn-condensate-variants.png",
+    "10.1212/WNL.0000000000218591":  "2026-10-02-fig5-ptau217-discordance.png",
     "10.1038/s41586-026-11061-x":    "2026-10-01-fig1-tau-strains.png",
     "10.1016/j.neuron.2026.09.001":  "2026-10-01-fig2-tmem119-microglia.png",
     "10.1038/s41593-026-02436-4":    "2026-10-01-fig3-hippocampus-semantics.png",
