@@ -3792,7 +3792,125 @@
    "date_reported": "2026-10-02",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "tier_b",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1002/ana.78382",
+   "pmid": "42825398",
+   "title": "Associations Between Prediagnosis Plasma Neurofilament Light Polypeptide and Amyotrophic Lateral Sclerosis Risk in the Danish EPIC Cohort.",
+   "journal": "Ann Neurol",
+   "date_reported": "2026-10-05",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118084",
+   "pmid": "42826098",
+   "title": "Progressive remodeling of global protein interaction networks in a mouse model of tauopathy.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-10-05",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118065",
+   "pmid": "42826099",
+   "title": "Lysosomal multi-omics reveals altered sphingolipid catabolism associated with lysosomal dysfunction in the aging brain.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-10-05",
+   "section": "top"
+  },
+  {
+   "doi": "10.1002/ana.78366",
+   "pmid": "42825390",
+   "title": "Memory and Plasma pTau217 Refine Prognosis in Down Syndrome.",
+   "journal": "Ann Neurol",
+   "date_reported": "2026-10-05",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-77254-0",
+   "pmid": "42830353",
+   "title": "High-resolution structures of human NHE6 and NHE9 elucidate endosomal ion and lipid interactions.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-05",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218561",
+   "pmid": "42826379",
+   "title": "Medium-Term Cognitive Outcome in Patients With CNS Lymphomas Treated With Chimeric Antigen Receptor T-Cell Therapy.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-05",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1126/sciadv.aeh3952",
+   "pmid": "42826182",
+   "title": "Engineering neurovascular thrombosis: Light-based bioprinting for patient-specific modeling and women's cerebrovascular health.",
+   "journal": "Sci Adv",
+   "date_reported": "2026-10-05",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1186/s13024-026-01000-9",
+   "pmid": "42823745",
+   "title": "In vivo detection of pathologic α- synuclein and TDP-43 in the skin and olfactory mucosa of a patient with Parkinson's disease-like phenotype carrying the p.Thr272Serfs*10 GRN mutation.",
+   "journal": "Mol Neurodegener",
+   "date_reported": "2026-10-05",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.30.26363850",
+   "pmid": null,
+   "title": "REM sleep EEG slowing signals basal forebrain integrity in older adults with subjective and mild cognitive impairment",
+   "journal": "medrxiv",
+   "date_reported": "2026-10-05",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.28.755069",
+   "pmid": null,
+   "title": "ALS/FTD-linked TDP-43 alterations prevent HSV-1 infection by disrupting cell-adhesion pathways",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-05",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.28.26363833",
+   "pmid": null,
+   "title": "TMEM106B analysis in diverse cohorts suggests no association with Parkinson's disease risk",
+   "journal": "medrxiv",
+   "date_reported": "2026-10-05",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.27.751872",
+   "pmid": null,
+   "title": "Angiopoietin-like protein 7 (ANGPTL7)-mediated effects on resident immune cells contribute to neurodegeneration in glaucomatous optic nerve head",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-05",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.27.754749",
+   "pmid": null,
+   "title": "Low-Density Lipoprotein Cholesterol and Cerebral Pericyte Dysfunction in Acute Ischemic Stroke: Clinical and Experimental Evidence",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-05",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-10-02"
+ "last_updated": "2026-10-05"
 }
