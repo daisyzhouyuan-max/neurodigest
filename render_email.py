@@ -47,6 +47,9 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1093/brain/awag343":         "2026-10-06-fig1-neuromelanin.png",
+    "10.1093/brain/awag342":         "2026-10-06-fig2-ftom6a.png",
+    "10.1038/s41467-026-77319-0":    "2026-10-06-fig3-astropi3k.png",
     "10.1002/ana.78382":             "2026-10-05-fig1-nfl-als-prodrome.png",
     "10.1016/j.celrep.2026.118084":  "2026-10-05-fig2-tauopathy-interactome.png",
     "10.1016/j.celrep.2026.118065":  "2026-10-05-fig3-lysosomal-aging-brain.png",

@@ -3910,7 +3910,125 @@
    "date_reported": "2026-10-05",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1093/brain/awag343",
+   "pmid": "42831534",
+   "title": "Blood-brain barrier opening with focused ultrasound reduces neuromelanin in a non-human primate model.",
+   "journal": "Brain",
+   "date_reported": "2026-10-06",
+   "section": "top"
+  },
+  {
+   "doi": "10.1093/brain/awag342",
+   "pmid": "42831527",
+   "title": "CRISPR screen reveals FTO-mediated m6A modification of ATF3 as protective in ischaemic stroke.",
+   "journal": "Brain",
+   "date_reported": "2026-10-06",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77319-0",
+   "pmid": "42834036",
+   "title": "Astrocytic PI3Kα controls synaptic plasticity and cognitive function via serine metabolism.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-06",
+   "section": "top"
+  },
+  {
+   "doi": "10.1002/alz.71827",
+   "pmid": "42831470",
+   "title": "Structural compression and entorhinal vulnerability: Linking tentorial adjacency to tau burden and dementia progression.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-06",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1073/pnas.2609260123",
+   "pmid": "42832655",
+   "title": "Brain weight across the adult lifespan in great apes.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-10-06",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1093/brain/awag341",
+   "pmid": "42831506",
+   "title": "NKCC1 coordinates SPAK-PP1 signalling to regulate KCC2 membrane stability and seizure susceptibility.",
+   "journal": "Brain",
+   "date_reported": "2026-10-06",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70556",
+   "pmid": "42834674",
+   "title": "Directional Adaptive Deep Brain Stimulation: An Initial Report of Safety, Tolerability, and Effectiveness.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-06",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218545",
+   "pmid": "42832743",
+   "title": "Ofatumumab vs Ocrelizumab in Relapsing-Remitting Multiple Sclerosis: A Nationwide Cohort Study.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-06",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.09.29.26363951",
+   "pmid": null,
+   "title": "Plasma eMTBR-tau as a robust biomarker for Alzheimer's disease tangle pathology up to 10 years before death",
+   "journal": "medrxiv",
+   "date_reported": "2026-10-06",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.30.755295",
+   "pmid": null,
+   "title": "Templated seeding induces the formation of Alzheimer paired helical tau filaments in human brain organoids",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-06",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.01.755875",
+   "pmid": null,
+   "title": "Monomeric TDP-43 binds GU-rich RNA via its NTD but only its oligomers block cryptic exon inclusion",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-06",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.29.753541",
+   "pmid": null,
+   "title": "Structural integrity moderates the cognitive bearing of dopamine clearance in aging",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-06",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.09.29.755142",
+   "pmid": null,
+   "title": "Hyperexcitable primary somatosensory cortex in the MitoPark mouse model of Parkinson's disease",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-06",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-10-05"
+ "last_updated": "2026-10-06"
 }
