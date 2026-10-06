@@ -169,6 +169,8 @@ A paper promoted to Top Papers does not also appear in its tier section.
 
 The `now_published` array in `candidates.json` gives you the preprint record and its published DOI. Resolve the published title and journal from PubMed or the DOI before listing it.
 
+If the published title will not resolve (not yet PubMed-indexed, lookup unreachable), just list the preprint title, the journal and the DOI and leave it there. Never add a note explaining that the title could not be resolved, or why. The digest is for a reader, not a log of the run — keep process caveats out of it and put them in the run summary instead. The same goes anywhere else in the digest: no meta-commentary about what the pipeline could or could not fetch.
+
 If `digest_YYYY-MM-DD.md` already exists (the routine ran earlier today), do not overwrite it. Write `digest_YYYY-MM-DD-2.md` instead, incrementing the number if that exists too, and add a line to the header note saying which run of the day this is and that earlier papers were deduplicated out. Render and email that file under the same name.
 
 ### Writing style
