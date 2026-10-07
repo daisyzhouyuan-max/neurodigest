@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41593-026-02475-x":    "2026-10-07-fig1-human-claustrum.png",
+    "10.1016/j.immuni.2026.09.006":  "2026-10-07-fig2-il10-bcells-eae.png",
+    "10.1093/brain/awag348":         "2026-10-07-fig3-pd-mtdna-pink1.png",
+    "10.1212/WNL.0000000000218598":  "2026-10-07-fig4-ptau217-cortex.png",
+    "10.1002/alz.71868":             "2026-10-07-fig5-pd-cholinergic-cognition.png",
     "10.1093/brain/awag343":         "2026-10-06-fig1-neuromelanin.png",
     "10.1093/brain/awag342":         "2026-10-06-fig2-ftom6a.png",
     "10.1038/s41467-026-77319-0":    "2026-10-06-fig3-astropi3k.png",
