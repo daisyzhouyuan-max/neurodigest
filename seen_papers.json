@@ -4170,7 +4170,173 @@
       "date_reported": "2026-10-07",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1126/scitranslmed.adz9258",
+      "pmid": "42842725",
+      "title": "Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-10-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02464-0",
+      "pmid": "42844425",
+      "title": "Astrocytes regulate axonal mitochondrial transport deficits in C9ORF72 amyotrophic lateral sclerosis motor neurons.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71914",
+      "pmid": "42842336",
+      "title": "Network-dependent remote effects and local tau burden jointly shape neuronal dysfunction in Alzheimer's disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71845",
+      "pmid": "42841315",
+      "title": "Genetic evidence supports a cortical neuroprotective role of GLP-1 receptor activation in Alzheimer's disease: A drug-target Mendelian randomization study.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41586-026-11144-9",
+      "pmid": "42844464",
+      "title": "A split attractor design for rapidly writing a navigational goal.",
+      "journal": "Nature",
+      "date_reported": "2026-10-08",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02480-0",
+      "pmid": "42844426",
+      "title": "Modality-specific reactive and predictive responses in the human superior colliculus.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-08",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/scitranslmed.aea7960",
+      "pmid": "42842720",
+      "title": "Immunoregulatory artificial lymph nodes restore antigen-specific tolerance in advanced multiple sclerosis.",
+      "journal": "Sci Transl Med",
+      "date_reported": "2026-10-08",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.012",
+      "pmid": "42843323",
+      "title": "Toward an automated science of the mind.",
+      "journal": "Neuron",
+      "date_reported": "2026-10-08",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.003",
+      "pmid": "42843322",
+      "title": "How private foundations and governments helped build theoretical neuroscience.",
+      "journal": "Neuron",
+      "date_reported": "2026-10-08",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71903",
+      "pmid": "42841306",
+      "title": "miR-214-3p and NCKAP1: A microglial functional dimension of Alzheimer's progression.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71758",
+      "pmid": "42841310",
+      "title": "Longitudinal clinical outcomes after amyloid clearance in aducanumab phase 3 studies.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218682",
+      "pmid": "42842855",
+      "title": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+      "journal": "Neurology",
+      "date_reported": "2026-10-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1073/pnas.2608835123",
+      "pmid": "42842404",
+      "title": "MATRIN3 deficiency in human cells triggers an autoinflammatory response via cGAS-STING activation.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-10-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1126/sciadv.aei1796",
+      "pmid": "42842648",
+      "title": "Herpes simplex virus pUL56 abolishes neuronal activity by removing voltage-gated ion channels from the plasma membrane.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-10-08",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1101/2025.04.20.648873",
+      "pmid": null,
+      "title": "TDP-43 toxic gain of function links ALS, FTD and Alzheimers Disease through splicing dysregulation",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-08",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.04.26361149",
+      "pmid": null,
+      "title": "Brain region- and solubility-dependent proteomic signatures of neurofibrillary tangle pathology in Alzheimer's disease",
+      "journal": "medrxiv",
+      "date_reported": "2026-10-08",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.28.755178",
+      "pmid": null,
+      "title": "Hypothalamic tauP301L pathology disrupts pair bonding in monogamous prairie voles",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-08",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.07.750453",
+      "pmid": null,
+      "title": "Bone regulates locomotion by sustaining motoneuronal mitochondrial function",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-08",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.30.755620",
+      "pmid": null,
+      "title": "Aging reshapes odor-evoked dynamics in central olfactory circuits",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-08",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-10-07"
+  "last_updated": "2026-10-08"
 }
