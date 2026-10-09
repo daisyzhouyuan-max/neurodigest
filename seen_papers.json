@@ -3114,7 +3114,7 @@
       "doi": "10.1038/s41598-026-69898-1",
       "pmid": null,
       "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
-      "journal": "Sci Rep",
+      "journal": "Scientific Reports",
       "date_reported": "2026-09-01",
       "section": "preprint",
       "server": "medrxiv"
@@ -4336,7 +4336,141 @@
       "date_reported": "2026-10-08",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41593-026-02472-0",
+      "pmid": "42850312",
+      "title": "Alzheimer's disease target and drug discovery by leveraging multiomics and electronic health data.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.immuni.2026.09.011",
+      "pmid": "42849443",
+      "title": "Microglia-mediated extracellular matrix disruption drives neuronal dysfunction, motor impairments, and sedation following alcohol abuse.",
+      "journal": "Immunity",
+      "date_reported": "2026-10-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71883",
+      "pmid": "42851246",
+      "title": "Associations between plasma biomarker levels and quantitative postmortem neuropathologic measures in Alzheimer's disease and related dementias.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag347",
+      "pmid": "42847641",
+      "title": "White matter hyperintensity burden in amyotrophic lateral sclerosis: motor and survival correlates.",
+      "journal": "Brain",
+      "date_reported": "2026-10-09",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.014",
+      "pmid": "42849450",
+      "title": "Simultaneous awake replay of multiple spatial representations.",
+      "journal": "Neuron",
+      "date_reported": "2026-10-09",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71898",
+      "pmid": "42851168",
+      "title": "Plasma eMTBR-tau243 as a disease biomarker across Alzheimer's disease clinical phenotypes.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218469",
+      "pmid": "42848968",
+      "title": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
+      "journal": "Neurology",
+      "date_reported": "2026-10-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71901",
+      "pmid": "42851145",
+      "title": "Proteomic dysregulation associated with cerebral amyloid angiopathy.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71910",
+      "pmid": "42851166",
+      "title": "Longitudinal associations of rapid eye movement (REM) sleep and slow-wave sleep with plasma Alzheimer's disease biomarkers.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70555",
+      "pmid": "42844944",
+      "title": "KCNA2-Associated Hereditary Spastic Paraplegia: Clinical Characteristics and Rationale for Targeted Treatment.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-10-09",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.09.28.755047",
+      "pmid": null,
+      "title": "Engineered Chimeric Proteins Functionally Replace ALS-causing Endogenous FUS and TDP-43 to Improve Neuronal Health",
+      "journal": null,
+      "date_reported": "2026-10-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.02.756181",
+      "pmid": null,
+      "title": "Targeting microglial P2Y12-receptor signalling attenuates neurodegeneration in experimental Parkinsons disease",
+      "journal": null,
+      "date_reported": "2026-10-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.30.755839",
+      "pmid": null,
+      "title": "Disease stage-sensitive MFSD2A-caveolae axis insigates hippocampal blood-brain barrier disruption in Alzheimer's disease",
+      "journal": null,
+      "date_reported": "2026-10-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.09.29.755483",
+      "pmid": null,
+      "title": "Large-scale cerebrospinal fluid proteomics identifies diagnostic biomarker candidates across the clinico-pathological continuum of frontotemporal lobar degeneration",
+      "journal": null,
+      "date_reported": "2026-10-09",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.06.757033",
+      "pmid": null,
+      "title": "CCT2 expression marks a translation-activated state in sporadic ALS motor neurons and is associated with functional decline",
+      "journal": null,
+      "date_reported": "2026-10-09",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-10-08"
+  "last_updated": "2026-10-09"
 }

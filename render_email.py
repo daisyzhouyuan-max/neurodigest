@@ -47,6 +47,10 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41593-026-02472-0":    "2026-10-09-fig1-ad-multiomics-targets.png",
+    "10.1016/j.immuni.2026.09.011":  "2026-10-09-fig2-microglia-ecm-alcohol.png",
+    "10.1002/alz.71883":             "2026-10-09-fig3-plasma-biomarkers-neuropath.png",
+    "10.1093/brain/awag347":         "2026-10-09-fig4-wmh-als-survival.png",
     "10.1126/scitranslmed.adz9258":  "2026-10-08-fig1-microglia-gpnmb-synuclein.png",
     "10.1038/s41593-026-02464-0":    "2026-10-08-fig2-astrocyte-mito-c9orf72-als.png",
     "10.1002/alz.71914":             "2026-10-08-fig3-tau-network-diaschisis-ad.png",
