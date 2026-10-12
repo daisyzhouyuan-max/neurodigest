@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1073/pnas.2618654123":       "2026-10-12-fig1-hypoxia-pill.png",
+    "10.1073/pnas.2622215123":       "2026-10-12-fig2-synj1-pd.png",
+    "10.1002/ana.78388":             "2026-10-12-fig3-cso-pvs-caa.png",
+    "10.1007/s00401-026-03095-2":    "2026-10-12-fig4-apoe-sex-tau.png",
+    "10.1007/s00401-026-03072-9":    "2026-10-12-fig5-als-dying-back.png",
     "10.1038/s41593-026-02472-0":    "2026-10-09-fig1-ad-multiomics-targets.png",
     "10.1016/j.immuni.2026.09.011":  "2026-10-09-fig2-microglia-ecm-alcohol.png",
     "10.1002/alz.71883":             "2026-10-09-fig3-plasma-biomarkers-neuropath.png",
