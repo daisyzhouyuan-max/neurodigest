@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41593-026-02481-z":    "2026-10-13-fig1-fam193b-ccg-ad.png",
+    "10.1016/j.neuron.2026.09.019":  "2026-10-13-fig2-h2az-sex-ad.png",
+    "10.1016/j.neuron.2026.08.027":  "2026-10-13-fig3-crym-astrocyte-hd.png",
+    "10.1002/ana.78390":             "2026-10-13-fig4-sma-astrocyte-smn.png",
+    "10.1073/pnas.2611158123":       "2026-10-13-fig5-tau-water-pinning.png",
     "10.1073/pnas.2618654123":       "2026-10-12-fig1-hypoxia-pill.png",
     "10.1073/pnas.2622215123":       "2026-10-12-fig2-synj1-pd.png",
     "10.1002/ana.78388":             "2026-10-12-fig3-cso-pvs-caa.png",
