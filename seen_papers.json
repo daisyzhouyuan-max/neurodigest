@@ -4786,7 +4786,149 @@
       "date_reported": "2026-10-13",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.017",
+      "pmid": "42869027",
+      "title": "A cross-species AAV platform for precise microglial interrogation.",
+      "journal": "Neuron",
+      "date_reported": "2026-10-14",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.026",
+      "pmid": "42869022",
+      "title": "PTPRS mediates invasion of tetanus neurotoxin into the central nervous system.",
+      "journal": "Cell",
+      "date_reported": "2026-10-14",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03093-4",
+      "pmid": "42867547",
+      "title": "CHCHD2 mitigates age-associated proteostatic collapse by maintaining homeostasis of the mitochondria-lysosome axis.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-10-14",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.029",
+      "pmid": "42869023",
+      "title": "A high-dimensional population code in the bat motor cortex during natural dexterous flight.",
+      "journal": "Cell",
+      "date_reported": "2026-10-14",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41591-026-04680-4",
+      "pmid": "42869994",
+      "title": "Human-artificial intelligence collaboration for comanaging epilepsy in real time.",
+      "journal": "Nat Med",
+      "date_reported": "2026-10-14",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.08.053",
+      "pmid": "42869020",
+      "title": "Rare k-mers reveal centromere haplogroups underlying human diversity and cancer translocations.",
+      "journal": "Cell",
+      "date_reported": "2026-10-14",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1007/s00401-026-03102-6",
+      "pmid": "42867637",
+      "title": "Pericyte loss and endothelial activation define distinct vascular states in cerebral small vessel disease.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-10-14",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-77474-4",
+      "pmid": "42869902",
+      "title": "Huntington's disease vasculopathy is barrier-type-selective and arteriolar-dominant with spatially-coupled astrogliosis and reversible by S1pr1 stimulation.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-10-14",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-77748-x",
+      "pmid": "42869903",
+      "title": "Global brain activity links subcortical degeneration to cortical tau progressively across Braak regions over early Alzheimer's disease stages.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-10-14",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1007/s00401-026-03100-8",
+      "pmid": "42867534",
+      "title": "Incident versus prevalent progressive supranuclear palsy: analyses of U.S. Alzheimer's Disease Research Centers data indicate clinical and neuropathological features of a relatively common and underrecognized tauopathy in the aging brain.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-10-14",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71690",
+      "pmid": "42869853",
+      "title": "Sphingolipid and ceramide associations with tau pathology vary across diverse ethnoracial groups in postmortem brain tissue.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-14",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.10.06.757103",
+      "pmid": null,
+      "title": "Intrastriatal injection of amplified Lewy body dementia (LBD) fibrils in mice results in accumulation of fibrils with LBD structure and neurodegeneration",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.08.757401",
+      "pmid": null,
+      "title": "Integration of Neuroimaging and Histopathology in a Squirrel Monkey Model of Spontaneous Cerebral Amyloid Angiopathy and Amyloid-Related Imaging Abnormalities",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.07.757422",
+      "pmid": null,
+      "title": "Spontaneous Hemodynamic Oscillations during Sleep Coordinate Directional CSF Flow in the Subarachnoid Space and Ventricles",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.09.26365172",
+      "pmid": null,
+      "title": "Normative transcriptomic clues to thalamic developmental vulnerability in C9orf72-FTLD",
+      "journal": "medrxiv",
+      "date_reported": "2026-10-14",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.06.757005",
+      "pmid": null,
+      "title": "Separation, isolation, and membrane lipid profiling of selectively vulnerable and resilient neurons",
+      "journal": "biorxiv",
+      "date_reported": "2026-10-14",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-10-13"
+  "last_updated": "2026-10-14"
 }
