@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1126/scitranslmed.aec5740":  "2026-10-15-fig1-trem2-agonist.png",
+    "10.1038/s41467-026-77638-2":    "2026-10-15-fig2-sortilin-ftd.png",
+    "10.1038/s43587-026-01202-2":    "2026-10-15-fig3-pla2g7-aging.png",
+    "10.1002/ana.78392":             "2026-10-15-fig4-subthreshold-amyloid.png",
+    "10.1038/s41586-026-11119-w":    "2026-10-15-fig5-microexon-autism.png",
     "10.1016/j.neuron.2026.09.017":  "2026-10-14-fig1-microglia-aav.png",
     "10.1016/j.cell.2026.09.026":    "2026-10-14-fig2-ptprs-tetanus.png",
     "10.1007/s00401-026-03093-4":    "2026-10-14-fig3-chchd2-lysosome.png",
