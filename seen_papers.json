@@ -5118,7 +5118,213 @@
    "date_reported": "2026-10-15",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.04.07.26350339",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": null,
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1038/s41593-026-02465-z",
+   "pmid": "42881225",
+   "title": "An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-16",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.stem.2026.09.012",
+   "pmid": "42880287",
+   "title": "Genome-wide CRISPR screen reveals that Wnt signaling regulates lipid accumulation in APOE4 oligodendrocytes.",
+   "journal": "Cell Stem Cell",
+   "date_reported": "2026-10-16",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.025",
+   "pmid": "42880289",
+   "title": "Parvalbumin cell state dynamics regulate gamma oscillations and are disrupted in Alzheimer's disease.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-16",
+   "section": "top"
+  },
+  {
+   "doi": "10.1073/pnas.2613546123",
+   "pmid": "42879493",
+   "title": "An integrative transcriptomic atlas of ALS and aging skeletal muscle defines shared and distinct molecular programs of degeneration.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-10-16",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77009-x",
+   "pmid": "42881165",
+   "title": "Interrogating DNA methylation associated with Lewy body pathology in a cross brain-region and multi-cohort study.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-16",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02490-y",
+   "pmid": "42881224",
+   "title": "5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41593-026-02431-9",
+   "pmid": "42881223",
+   "title": "A half-center oscillator regulates sleep pressure.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41593-026-02470-2",
+   "pmid": "42881222",
+   "title": "Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41593-026-02461-3",
+   "pmid": "42881221",
+   "title": "Periventricular gradient pathology is linked to ependymal reactivity and cell adhesion disruption in multiple sclerosis.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.026",
+   "pmid": "42880291",
+   "title": "Recovery sleep induces analgesia via sleep ensembles of the zona incerta acting through distinct neural circuits in mice.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.027",
+   "pmid": "42880290",
+   "title": "A brainstem module for backward locomotion reveals direction-selective premotor circuits.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.09.042",
+   "pmid": "42880283",
+   "title": "An opioid efficacy switch for reversible optical control of analgesia.",
+   "journal": "Cell",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.08.044",
+   "pmid": "42880229",
+   "title": "Cellular scaling laws in the mammalian brain.",
+   "journal": "Cell",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.adz5323",
+   "pmid": "42879555",
+   "title": "Dendritic computation for abstract rule-based flexible decision-making.",
+   "journal": "Science",
+   "date_reported": "2026-10-16",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1002/alz.71770",
+   "pmid": "42878194",
+   "title": "Attention-deficit/hyperactivity disorder polygenic risk score and incidence of cognitive impairment in older adults: A prospective multicohort study.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-16",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70530",
+   "pmid": "42876073",
+   "title": "GCH1 p.Ser80Asn Confers Risk for Parkinson's Disease in East Asian Populations.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-16",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218594",
+   "pmid": "42879726",
+   "title": "Predictors of Antiamyloid Medication Utilization and Adherence Among People With Alzheimer Disease and Mild Cognitive Impairment.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-16",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71847",
+   "pmid": "42885145",
+   "title": "The right temperature at the right time: A framework for understanding thermoregulatory pathophysiology in Alzheimer's disease.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-16",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1073/pnas.2606899123",
+   "pmid": "42879478",
+   "title": "A GPRC5B-Fyn signaling axis regulates VRAC activity by targeting LRRC8A.",
+   "journal": "Proc Natl Acad Sci U S A",
+   "date_reported": "2026-10-16",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.10.14.759167",
+   "pmid": null,
+   "title": "Sex- and age-dependent control of dopamine function by LRRK2, and rapid reversal of dopamine release deficits in the LRRK2-G2019S knock-in mouse model of Parkinson's Disease.",
+   "journal": null,
+   "date_reported": "2026-10-16",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.14.26364535",
+   "pmid": null,
+   "title": "Resolving neurodegenerative and therapeutic crosstalk in biofluid proteomes for Parkinson's disease surveillance",
+   "journal": null,
+   "date_reported": "2026-10-16",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.13.758908",
+   "pmid": null,
+   "title": "Lysosomal lipidomics identifies glycosylated bis(monoacylglycero)phosphate as a novel biomarker of mutant GBA1",
+   "journal": null,
+   "date_reported": "2026-10-16",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.13.26365385",
+   "pmid": null,
+   "title": "Selective vulnerability of human basal forebrain subsystems in ageing and neuropsychiatric disorders",
+   "journal": null,
+   "date_reported": "2026-10-16",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.07.757306",
+   "pmid": null,
+   "title": "Decoupling of spontaneous and evoked activity in locus coeruleus neurons: early synaptic and ion-channel remodeling in a mouse model of Alzheimer's disease",
+   "journal": null,
+   "date_reported": "2026-10-16",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-10-15"
+ "last_updated": "2026-10-16"
 }
