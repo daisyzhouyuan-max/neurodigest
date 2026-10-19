@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1002/mds.70574":             "2026-10-19-fig1-psp-tgfb-tau.png",
+    "10.1016/j.celrep.2026.118053":  "2026-10-19-fig2-ataxin2-tdp43.png",
+    "10.1126/sciadv.aeh8870":        "2026-10-19-fig3-usw-glymphatic.png",
+    "10.1038/s41467-026-77073-3":    "2026-10-19-fig4-myelin-lifespan.png",
+    "10.1002/mds.70562":             "2026-10-19-fig5-irbd-diet-microbiome.png",
     "10.1038/s41593-026-02465-z":    "2026-10-16-fig1-pla2g2f-resilience.png",
     "10.1016/j.stem.2026.09.012":    "2026-10-16-fig2-apoe4-gsk3b-myelin.png",
     "10.1016/j.neuron.2026.09.025":  "2026-10-16-fig3-pv-gamma-ad.png",

@@ -5120,10 +5120,10 @@
    "server": "biorxiv"
   },
   {
-   "doi": "10.64898/2026.04.07.26350339",
+   "doi": "10.1038/s41598-026-69898-1",
    "pmid": null,
    "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
-   "journal": null,
+   "journal": "Scientific Reports",
    "date_reported": "2026-09-01",
    "section": "preprint",
    "server": "medrxiv"
@@ -5324,7 +5324,148 @@
    "date_reported": "2026-10-16",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1002/mds.70574",
+   "pmid": "42888872",
+   "title": "TGF-β Inhibition Attenuates Tau Accumulation and Neurodegeneration in Progressive Supranuclear Palsy Patient-Derived Organoids.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-19",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118053",
+   "pmid": "42886553",
+   "title": "Ataxin-2 downregulation rewires neuronal and astrocytic metabolism to protect against TDP-43 toxicity.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-10-19",
+   "section": "top"
+  },
+  {
+   "doi": "10.1126/sciadv.aeh8870",
+   "pmid": "42886802",
+   "title": "Noninvasive ultrashort wave neuromodulation enhances glymphatic clearance to alleviate traumatic brain edema and Alzheimer's pathology.",
+   "journal": "Sci Adv",
+   "date_reported": "2026-10-19",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77073-3",
+   "pmid": "42893992",
+   "title": "The shifting landscape of brain-wide myelination across the human lifespan.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-19",
+   "section": "top"
+  },
+  {
+   "doi": "10.1002/mds.70562",
+   "pmid": "42888868",
+   "title": "Habitual Diet, Gut Microbiome Dysbiosis, and α-Synucleinopathy Conversion in Isolated Rapid Eye Movement (REM) Sleep Behavior Disorder.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-19",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41591-026-04715-w",
+   "pmid": "42888247",
+   "title": "EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.",
+   "journal": "Nat Med",
+   "date_reported": "2026-10-19",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.013",
+   "pmid": "42887503",
+   "title": "Raphe nuclei in cognition: A network-level framework for behavioral-state control.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-19",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218692",
+   "pmid": "42886876",
+   "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-19",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218596",
+   "pmid": "42886871",
+   "title": "Role of APOE ɛ4 and ɛ2 With Longitudinal Cognitive Decline Among Those With Exceptional Longevity: The LifeAfter90 Study.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-19",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/ana.78398",
+   "pmid": "42885660",
+   "title": "Salivary Dim-Light Melatonin Onset is Associated with Functional Decline, Respiratory Symptom Emergence, and Survival in Early Amyotrophic Lateral Sclerosis.",
+   "journal": "Ann Neurol",
+   "date_reported": "2026-10-19",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71889",
+   "pmid": "42888952",
+   "title": "Integration of neuroimaging signatures of aging and Alzheimer's with fluid biomarkers.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-19",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218584",
+   "pmid": "42886878",
+   "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
+   "journal": "Neurology",
+   "date_reported": "2026-10-19",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.10.12.758491",
+   "pmid": null,
+   "title": "Progressive neurodegeneration of the locus coeruleus drives rapid eye movement sleep fragmentation",
+   "journal": null,
+   "date_reported": "2026-10-19",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.16.759681",
+   "pmid": null,
+   "title": "The Alzheimer's disease risk gene ABCA7 regulates microglial lysosomal and lipid homeostasis and promotes phagocytosis to maintain neuronal health",
+   "journal": null,
+   "date_reported": "2026-10-19",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.12.758592",
+   "pmid": null,
+   "title": "A Humanized Mouse Model of DRPLA Recapitulates Epilepsy and Demonstrates Antisense Oligonucleotide-Mediated Disease Modification",
+   "journal": null,
+   "date_reported": "2026-10-19",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.15.26365615",
+   "pmid": null,
+   "title": "Comparative analysis of plasma pTau217, NfL and eight modifiable risk scores for 11-year dementia prediction in the HUNT Study",
+   "journal": null,
+   "date_reported": "2026-10-19",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.12.758495",
+   "pmid": null,
+   "title": "Sex shapes capillary flows and oxygen extraction in the middle-aged mouse brain",
+   "journal": null,
+   "date_reported": "2026-10-19",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-10-16"
+ "last_updated": "2026-10-19"
 }
