@@ -519,13 +519,13 @@
    "section": "preprint"
   },
   {
-   "doi": "10.64898/2026.05.20.26353696",
+   "doi": "10.1186/s12883-026-05426-y",
    "pmid": null,
    "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
-   "journal": "medrxiv",
+   "journal": "BMC Neurology",
    "server": "medrxiv",
    "date_reported": "2026-08-31",
-   "section": "preprint"
+   "section": "tier_b"
   },
   {
    "doi": "10.64898/2026.08.25.746691",
@@ -5465,7 +5465,149 @@
    "date_reported": "2026-10-19",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "tier_b",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1038/s41467-026-77728-1",
+   "pmid": "42897149",
+   "title": "Imaging nanoscopic co-assemblies of α-synuclein and Tau in human samples.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.031",
+   "pmid": "42896555",
+   "title": "An acetylcholine-inhibited sleep-active hippocampal interneuron orchestrates memory consolidation.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02488-6",
+   "pmid": "42897302",
+   "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41586-026-11293-x",
+   "pmid": "42896839",
+   "title": "Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes.",
+   "journal": "Nature",
+   "date_reported": "2026-10-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02473-z",
+   "pmid": "42897303",
+   "title": "An amygdala-mediated simulation-to-decision cascade aligns interbrain dynamics to solve social dilemmas.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-20",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.09.030",
+   "pmid": "42896556",
+   "title": "Distinct patterns of whole-body coding in human motor cortex and posterior parietal cortex.",
+   "journal": "Neuron",
+   "date_reported": "2026-10-20",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1002/mds.70584",
+   "pmid": "42897719",
+   "title": "Cortical Cholinergic Pathway Degeneration Reflects Cognitive Impairment and Dementia in Parkinson's Disease.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70585",
+   "pmid": "42897443",
+   "title": "Automated Magnetic Resonance Volumetry to Measure Multiple System Atrophy Disease Progression in Clinical Trials.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1038/s41467-026-77787-4",
+   "pmid": "42897171",
+   "title": "Microglia and border-associated macrophages play opposite roles in cerebrovascular and leukocyte responses under systemic inflammation in male mice.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1523/JNEUROSCI.0291-26.2026",
+   "pmid": "42896895",
+   "title": "Insulin regulates activity-dependent mitochondrial depolarization and calcium dynamics in dentate granule cells.",
+   "journal": "J Neurosci",
+   "date_reported": "2026-10-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71814",
+   "pmid": "42895171",
+   "title": "Analysis of dementia strategic plans in US states.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1101/2025.02.24.639868",
+   "pmid": null,
+   "title": "A systems approach uncovers drivers of the multifocal emergence of an astrocyte state contributing to cognitive decline in Alzheimer's disease",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.16.759411",
+   "pmid": null,
+   "title": "Redox surveillance of stress granules prevents TDP-43 aggregation",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.13.758897",
+   "pmid": null,
+   "title": "Female microglia show heightened responses to aging and amyloid pathology in mice and humans",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.18.759942",
+   "pmid": null,
+   "title": "BNIP3L/NIX-mediated mitophagy limits Alzheimer disease pathology and preserves neuronal function",
+   "journal": "biorxiv",
+   "date_reported": "2026-10-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.17.26365798",
+   "pmid": null,
+   "title": "Plasma neurofilament light links mortality to neuroaxonal injury beyond clinical decline and Alzheimer disease plasma biomarkers: a multi-cohort study of oldest old individuals",
+   "journal": "medrxiv",
+   "date_reported": "2026-10-20",
+   "section": "preprint",
+   "server": "medrxiv"
   }
  ],
- "last_updated": "2026-10-19"
+ "last_updated": "2026-10-20"
 }
