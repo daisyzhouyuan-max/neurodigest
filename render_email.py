@@ -47,6 +47,10 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41593-026-02487-7":    "2026-10-21-fig1-abca1-cholesterol-pd.png",
+    "10.1002/alz.71918":             "2026-10-21-fig2-h3k9me3-ad.png",
+    "10.1186/s13024-026-00979-5":    "2026-10-21-fig3-lrrk2-iron-ferroptosis.png",
+    "10.1073/pnas.2605209123":       "2026-10-21-fig4-cx3cl1-cd8-neurodegen.png",
     "10.1038/s41467-026-77728-1":    "2026-10-20-fig1-asyn-tau-coassembly.png",
     "10.1016/j.neuron.2026.09.031":  "2026-10-20-fig2-chrm2-ripple-memory.png",
     "10.1038/s41593-026-02488-6":    "2026-10-20-fig3-habenula-depression.png",
