@@ -5760,7 +5760,78 @@
    "date_reported": "2026-10-21",
    "section": "preprint",
    "server": "medrxiv"
+  },
+  {
+   "doi": "10.1186/s12883-026-05426-y",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+   "journal": "BMC Neurology",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1038/s41467-026-77823-3",
+   "pmid": "42901901",
+   "title": "Cryo-EM structure of ex vivo Sup35 yeast prion and the factors defining prion phenotype.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-22",
+   "section": "top"
+  },
+  {
+   "doi": "10.64898/2026.10.19.26365782",
+   "pmid": null,
+   "title": "Plasma Proteomic Classification of Alzheimer Disease, Parkinson Disease, and Amyotrophic Lateral Sclerosis Using a Single Neurodegeneration Panel: A Diagnostic Cohort Study",
+   "journal": "medrxiv",
+   "server": "medrxiv",
+   "date_reported": "2026-10-22",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.64898/2026.10.15.759523",
+   "pmid": null,
+   "title": "Spatial proximity to AD pathology defines cell-type and genotype-specific characteristics in human AD hippocampus",
+   "journal": "biorxiv",
+   "server": "biorxiv",
+   "date_reported": "2026-10-22",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1101/2025.08.09.669471",
+   "pmid": null,
+   "title": "Multi-level repression ensures tight translation control of C9ORF72",
+   "journal": "biorxiv",
+   "server": "biorxiv",
+   "date_reported": "2026-10-22",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.64898/2026.10.15.757659",
+   "pmid": null,
+   "title": "A new epigenetic framework for DNA methylation, hydroxymethylation, and gene expression during brain aging.",
+   "journal": "biorxiv",
+   "server": "biorxiv",
+   "date_reported": "2026-10-22",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.64898/2026.10.20.760399",
+   "pmid": null,
+   "title": "Polyglutamine-expanded TBP rewires neuronal and muscle proteomes beyond transcription in a Drosophila model of SCA17",
+   "journal": "biorxiv",
+   "server": "biorxiv",
+   "date_reported": "2026-10-22",
+   "section": "preprint"
   }
  ],
- "last_updated": "2026-10-21"
+ "last_updated": "2026-10-22"
 }
