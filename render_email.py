@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41586-026-11152-9":    "2026-10-23-fig1-cold-bh2-proteostasis.png",
+    "10.1126/scitranslmed.aef9466":  "2026-10-23-fig2-hd-cag-contraction.png",
+    "10.1038/s41586-026-11165-4":    "2026-10-23-fig3-angelman-asns-stress.png",
+    "10.1126/sciadv.aej4603":        "2026-10-23-fig4-bcg-tau-ps19.png",
+    "10.1038/s41586-026-11186-z":    "2026-10-23-fig5-cd51-astrocytes.png",
     "10.1038/s41467-026-77823-3":    "2026-10-22-fig1-sup35-prion.png",
     "10.1038/s41593-026-02487-7":    "2026-10-21-fig1-abca1-cholesterol-pd.png",
     "10.1002/alz.71918":             "2026-10-21-fig2-h3k9me3-ad.png",
