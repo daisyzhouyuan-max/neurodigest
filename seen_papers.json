@@ -6028,7 +6028,215 @@
       "date_reported": "2026-10-23",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1186/s12883-026-05426-y",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "BMC Neurology",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154679",
+      "pmid": "42826653",
+      "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+      "journal": "Biochemical and Biophysical Research Communications",
+      "date_reported": "2026-09-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1093/brain/awag364",
+      "pmid": "42910642",
+      "title": "Progenitor transcriptional alterations link fetal and adult pathology in Huntington's disease.",
+      "journal": "Brain",
+      "date_reported": "2026-10-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03104-4",
+      "pmid": "42911254",
+      "title": "Prevalence of alpha-synuclein seeding activity in the Olfactory Mucosa following SARS-CoV-2 infection: results from a pilot study.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-10-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218681",
+      "pmid": "42913444",
+      "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
+      "journal": "Neurology",
+      "date_reported": "2026-10-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1073/pnas.2529506123",
+      "pmid": "42912790",
+      "title": "Education reduces dementia incidence and mitigates genetic risk.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-10-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03103-5",
+      "pmid": "42911238",
+      "title": "TSPO-PET binding in vivo reflects increased phagocytic microglia at post mortem in people with frontotemporal dementia.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-10-26",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02497-5",
+      "pmid": "42919912",
+      "title": "Sustained antidepressant-like effects of psychedelics through 5-HT2AR-β-arrestin signaling.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02466-y",
+      "pmid": "42919911",
+      "title": "Identification of candidate markers for the isolation of neuron-specific extracellular vesicles.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02486-8",
+      "pmid": "42918864",
+      "title": "Network geometry shapes the transformation of task representations across the human cortex.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1038/s41593-026-02484-w",
+      "pmid": "42918863",
+      "title": "Behavioral genomics identifies Creld1 as a cross-modal regulator of somatosensation.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.033",
+      "pmid": "42913639",
+      "title": "A vagal gut-brain axis for feeding-induced gastric secretion in mice.",
+      "journal": "Neuron",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.09.058",
+      "pmid": "42913628",
+      "title": "MCT6 is an intestinal Lac-Phe exporter required for metformin-associated weight loss.",
+      "journal": "Cell",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1126/science.aed6459",
+      "pmid": "42912155",
+      "title": "Ultrarapid decision-making in an avian brain.",
+      "journal": "Science",
+      "date_reported": "2026-10-26",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71932",
+      "pmid": "42928414",
+      "title": "α-synuclein pathology drives region-specific tau deposition.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.118199",
+      "pmid": "42911815",
+      "title": "TIA1 is required for microglial activation in tauopathy.",
+      "journal": "Cell Rep",
+      "date_reported": "2026-10-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71857",
+      "pmid": "42910638",
+      "title": "Outdoor extreme heat-related dementia risk and the role of socioeconomic disparities: evidence from 20 years of data on US older adults.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-10-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70589",
+      "pmid": "42920057",
+      "title": "Latent Class Trajectory Modeling Identifies Cerebrospinal Fluid Protein Signatures Associated with Motor Progression in Parkinson's Disease: Evidence from the Parkinson's Progression Markers Initiative Cohort.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-10-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-78390-3",
+      "pmid": "42918778",
+      "title": "Tau isoform mapping across tissues and biofluids reveals a signature distinguishing Alzheimer's disease from amyotrophic lateral sclerosis.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-10-26",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.10.22.761034",
+      "pmid": null,
+      "title": "Prevention of prion disease symptoms in mice with deep PrP lowering",
+      "journal": null,
+      "date_reported": "2026-10-26",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.19.760019",
+      "pmid": null,
+      "title": "Splanchnic-spinal transmission of gut-initiated α-synucleinopathy",
+      "journal": null,
+      "date_reported": "2026-10-26",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2025.12.09.688862",
+      "pmid": null,
+      "title": "Somatic DNA-repeat expansions initiate distinct yet analogous changes in Huntington's disease cortical and striatal neurons",
+      "journal": null,
+      "date_reported": "2026-10-26",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.20.760443",
+      "pmid": null,
+      "title": "Astrocytic ablation of truncated TrkB receptors reduces amyloid plaques and prevents synaptic loss in 5xFAD mice",
+      "journal": null,
+      "date_reported": "2026-10-26",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.23.761418",
+      "pmid": null,
+      "title": "Dissecting cellular and molecular networks of aging and senescence in the human hippocampus",
+      "journal": null,
+      "date_reported": "2026-10-26",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-10-23"
+  "last_updated": "2026-10-26"
 }

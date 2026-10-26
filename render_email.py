@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1093/brain/awag364":         "2026-10-26-fig1-hd-progenitors.png",
+    "10.1007/s00401-026-03104-4":    "2026-10-26-fig2-covid-synuclein.png",
+    "10.1212/WNL.0000000000218681":  "2026-10-26-fig3-ptau217-dementia.png",
+    "10.1073/pnas.2529506123":       "2026-10-26-fig4-education-dementia.png",
+    "10.1007/s00401-026-03103-5":    "2026-10-26-fig5-tspo-microglia-ftd.png",
     "10.1038/s41586-026-11152-9":    "2026-10-23-fig1-cold-bh2-proteostasis.png",
     "10.1126/scitranslmed.aef9466":  "2026-10-23-fig2-hd-cag-contraction.png",
     "10.1038/s41586-026-11165-4":    "2026-10-23-fig3-angelman-asns-stress.png",
