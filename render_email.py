@@ -47,6 +47,10 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41591-026-04728-5":    "2026-10-28-fig1-als-tcell-compartments.png",
+    "10.1016/j.neuron.2026.10.002":  "2026-10-28-fig2-tau-brainstem-resilience.png",
+    "10.1016/j.neuron.2026.10.001":  "2026-10-28-fig3-glioma-gabaergic.png",
+    "10.1038/s41593-026-02493-9":    "2026-10-28-fig4-amygdala-episodic-memory.png",
     "10.1038/s41593-026-02499-3":    "2026-10-27-fig1-nus1-pd-iron.png",
     "10.1038/s41593-026-02489-5":    "2026-10-27-fig2-demyelination-microglia.png",
     "10.1002/alz.71947":             "2026-10-27-fig3-latozinemab-ftd.png",
