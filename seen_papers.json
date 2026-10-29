@@ -6551,7 +6551,199 @@
    "date_reported": "2026-10-28",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1186/s12883-026-05426-y",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson’s Disease Genetic Research Study",
+   "journal": "BMC Neurology",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1016/j.bbrc.2026.154679",
+   "pmid": null,
+   "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+   "journal": "Biochem Biophys Res Commun",
+   "date_reported": "2026-09-14",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1038/s41586-026-11206-y",
+   "pmid": "42951976",
+   "title": "Alzheimer's disease genetics converges on microglial and neuronal dysregulation.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.10.001",
+   "pmid": "42950817",
+   "title": "Somatic DNA-repeat expansions initiate distinct yet analogous changes in Huntington's disease cortical and striatal neurons.",
+   "journal": "Cell",
+   "date_reported": "2026-10-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41586-026-11190-3",
+   "pmid": "42951966",
+   "title": "Perinatal elimination of genetically aberrant human cortical neurons.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41593-026-02482-y",
+   "pmid": "42951997",
+   "title": "Serotonin signaling enhances phagocytosis by brain macrophages through Htr2b and alleviates brain injury after stroke.",
+   "journal": "Nat Neurosci",
+   "date_reported": "2026-10-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1126/scitranslmed.aed9994",
+   "pmid": "42950017",
+   "title": "Brain-sensing synNotch-CAR T cells enable precise targeting and clearance of diffuse midline glioma in multiple preclinical models.",
+   "journal": "Sci Transl Med",
+   "date_reported": "2026-10-29",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.09.064",
+   "pmid": "42950818",
+   "title": "Multimodal spatial transcriptomics redefines cortical pathology in Huntington's disease.",
+   "journal": "Cell",
+   "date_reported": "2026-10-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11201-3",
+   "pmid": "42951961",
+   "title": "Presynaptic homeostasis mediated by exocytosis of a SNARE protein.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11211-1",
+   "pmid": "42951958",
+   "title": "Clostridium perfringens Delta toxin targets CD9 to drive NEC and brain injury.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11203-1",
+   "pmid": "42951968",
+   "title": "Emotion regulation capacity lacks a shared neural signature.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41586-026-11195-y",
+   "pmid": "42951971",
+   "title": "Connectome simulations identify a central pattern generator for fly walking.",
+   "journal": "Nature",
+   "date_reported": "2026-10-29",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41467-026-78769-2",
+   "pmid": "42951910",
+   "title": "Computational modeling and preclinical evaluation support targeting somatic instability for Huntington's disease treatment.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-10-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1126/sciadv.aee0110",
+   "pmid": "42950057",
+   "title": "An oxidized ribonucleotide 8-oxoGTP drives neuroinflammation and accelerates cognitive decline.",
+   "journal": "Sci Adv",
+   "date_reported": "2026-10-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71900",
+   "pmid": "42947251",
+   "title": "Plasma β-synuclein associates with hippocampal synaptic density measured with [11C]UCB-J PET and plasma tau markers in Alzheimer's disease.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-10-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118225",
+   "pmid": "42949918",
+   "title": "Neuroprotectant development from small molecule inhibitors of CHOP/ATF4 expression.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-10-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70588",
+   "pmid": "42949087",
+   "title": "Neuromelanin-Sensitive MRI as a Marker of Clinical Severity and Disease Burden in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-10-29",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.10.27.762340",
+   "pmid": null,
+   "title": "Parkin deficiency rewires the genetic dependencies that govern neuronal survival",
+   "journal": null,
+   "date_reported": "2026-10-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.26.761376",
+   "pmid": null,
+   "title": "Single-Nucleus Profiling Reveals Neuronal Metabolic Collapse During the Transition to Alzheimer's Disease Dementia",
+   "journal": null,
+   "date_reported": "2026-10-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.27.760186",
+   "pmid": null,
+   "title": "Charting vulnerability of brainstem functional pathways in aging and prodromal synucleinopathy",
+   "journal": null,
+   "date_reported": "2026-10-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.27.762265",
+   "pmid": null,
+   "title": "The Aging Brain Matrix: Cross-Species Evidence Linking FREM3 to Brain and Cognitive Aging",
+   "journal": null,
+   "date_reported": "2026-10-29",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.25.26366428",
+   "pmid": null,
+   "title": "Cognition in healthy aging, ages 36 to 108: Associations with dementia risk factors and neurodegenerative disease biomarkers",
+   "journal": null,
+   "date_reported": "2026-10-29",
+   "section": "preprint",
+   "server": "medrxiv"
   }
  ],
- "last_updated": "2026-10-28"
+ "last_updated": "2026-10-29"
 }

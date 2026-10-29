@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41586-026-11206-y":    "2026-10-29-fig1-ad-gwas-loci.png",
+    "10.1016/j.cell.2026.10.001":    "2026-10-29-fig2-hd-somatic-cag.png",
+    "10.1038/s41586-026-11190-3":    "2026-10-29-fig3-neuron-cnv-pruning.png",
+    "10.1038/s41593-026-02482-y":    "2026-10-29-fig4-htr2b-macrophage-stroke.png",
+    "10.1126/scitranslmed.aed9994":  "2026-10-29-fig5-synnotch-car-dmg.png",
     "10.1038/s41591-026-04728-5":    "2026-10-28-fig1-als-tcell-compartments.png",
     "10.1016/j.neuron.2026.10.002":  "2026-10-28-fig2-tau-brainstem-resilience.png",
     "10.1016/j.neuron.2026.10.001":  "2026-10-28-fig3-glioma-gabaergic.png",
