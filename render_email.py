@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1126/science.aed2525":       "2026-10-30-fig1-spd-cul2fem1b.png",
+    "10.1126/science.aeb9095":       "2026-10-30-fig2-preterm-cerebellum.png",
+    "10.1002/alz.71926":             "2026-10-30-fig3-arrdc4-usp14-tau.png",
+    "10.1002/alz.71935":             "2026-10-30-fig4-apoe4-amyloid-topography.png",
+    "10.1093/brain/awag378":         "2026-10-30-fig5-otub2-sting-neurodegen.png",
     "10.1038/s41586-026-11206-y":    "2026-10-29-fig1-ad-gwas-loci.png",
     "10.1016/j.cell.2026.10.001":    "2026-10-29-fig2-hd-somatic-cag.png",
     "10.1038/s41586-026-11190-3":    "2026-10-29-fig3-neuron-cnv-pruning.png",
