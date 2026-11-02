@@ -6919,7 +6919,162 @@
       "date_reported": "2026-10-30",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1186/s12883-026-05426-y",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "BMC Neurology",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint",
+      "date_published_updated": "2026-11-02"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154679",
+      "pmid": "42826653",
+      "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph.",
+      "journal": "Biochemical and biophysical research communications",
+      "date_reported": "2026-09-14",
+      "section": "preprint",
+      "server": "biorxiv",
+      "date_published_updated": "2026-11-02"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv",
+      "date_published_updated": "2026-11-02"
+    },
+    {
+      "doi": "10.1016/j.cell.2026.10.009",
+      "pmid": "42962658",
+      "title": "Age-dependent structural evolution of a functional amyloid contributes to memory impairment in Drosophila.",
+      "journal": "Cell",
+      "date_reported": "2026-11-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/sciadv.aeg1787",
+      "pmid": "42962009",
+      "title": "LAMP2A gene therapy mitigates Parkinson's disease-related pathology in nonhuman primates.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-11-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/mds.70595",
+      "pmid": "42967813",
+      "title": "Exome Sequencing Identifies Population-Specific Genetic Risk Factors for Progressive Supranuclear Palsy in Asia.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-11-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1007/s00401-026-03051-0",
+      "pmid": "42961534",
+      "title": "SNP rs11618521 modifies transcription factor NANOG-mediated expression of KPNA3 and the age at onset of spinocerebellar ataxia type 3.",
+      "journal": "Acta Neuropathol",
+      "date_reported": "2026-11-02",
+      "section": "top"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.09.015",
+      "pmid": "42962664",
+      "title": "The neurobiology of menopause: Implications for brain aging and Alzheimer's risk.",
+      "journal": "Neuron",
+      "date_reported": "2026-11-02",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.71824",
+      "pmid": "42963336",
+      "title": "Polygenic risk scores for LATE-neuropathologic change: Implications for clinical utility.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71940",
+      "pmid": "42967588",
+      "title": "Chronic kidney disease and blood-based biomarkers of Alzheimer's disease: the brain in kidney disease study.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71961",
+      "pmid": "42967579",
+      "title": "MRI-derived glymphatic-related composite captures brain and cognitive vulnerability associated with cardiovascular risk in older adults.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70517",
+      "pmid": "42960446",
+      "title": "Motor Cortex Disinhibition Is Dissociated from Clinical Motor Features in Parkinson's Disease: Longitudinal Evidence.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-11-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-78300-7",
+      "pmid": "42967904",
+      "title": "A model of brain function to predict tau across Alzheimer's disease and related disorders.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-11-02",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.10.27.762234",
+      "pmid": null,
+      "title": "Neuronal and glial transcriptional states vary with proximity to tangle-bearing neurons in the human entorhinal cortex",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-02",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.27.761977",
+      "pmid": null,
+      "title": "Phenotypic screening in Parkinson's iPSC-dopamine neurons identifies the FASN-SREBP1 axis as a potential therapeutic target",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-02",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.26.761947",
+      "pmid": null,
+      "title": "The human circular Tau 12->7 RNA is translated in mouse neurons and promotes tau aggregation",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-02",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.24.761595",
+      "pmid": null,
+      "title": "Multiscale Transcriptomic Architecture of the ALS Motor Cortex",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-02",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.29.762961",
+      "pmid": null,
+      "title": "TMEM106B C-Terminal fragment aggregation exacerbates \tα-synuclein and TDP-43 proteinopathy phenotypes.",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-02",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-10-30"
+  "last_updated": "2026-11-02"
 }
