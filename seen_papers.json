@@ -7074,7 +7074,143 @@
       "date_reported": "2026-11-02",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1186/s12883-026-05426-y",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "BMC Neurology",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154679",
+      "pmid": "42826653",
+      "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph.",
+      "journal": "Biochem Biophys Res Commun",
+      "date_reported": "2026-09-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s41593-026-02500-z",
+      "pmid": "42972049",
+      "title": "A multi-institutional investigation of psilocybin's effects on mouse behavior.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-11-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218685",
+      "pmid": "42970748",
+      "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
+      "journal": "Neurology",
+      "date_reported": "2026-11-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/ana.78362",
+      "pmid": "42969188",
+      "title": "Understanding the Pattern of Cognitive Decline in GBA1-Related Parkinson's Disease: An Exploratory Longitudinal Multi-Cohort Study.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-11-03",
+      "section": "top"
+    },
+    {
+      "doi": "10.1186/s13024-026-00981-x",
+      "pmid": "42972384",
+      "title": "Astrocyte lipid metabolism in brain health and neurodegeneration: from regulatory hub to maladaptive stressor.",
+      "journal": "Mol Neurodegener",
+      "date_reported": "2026-11-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1186/s13024-026-00982-w",
+      "pmid": "42972409",
+      "title": "Deciphering the metabolome in Alzheimer's disease.",
+      "journal": "Mol Neurodegener",
+      "date_reported": "2026-11-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70563",
+      "pmid": "42973290",
+      "title": "Optimizing Genetic Analyses for Movement Disorders: A Unified Panel Approach and Targeted Reanalysis of 4,046 Clinical Exomes.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-11-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-77504-1",
+      "pmid": "42967927",
+      "title": "Substrate coupling and inhibition in human Na+-dependent Cl-/HCO3- exchanger NCBE (SLC4A10).",
+      "journal": "Nat Commun",
+      "date_reported": "2026-11-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1038/s41467-026-78199-0",
+      "pmid": "42971955",
+      "title": "Sexually dimorphic control of excitatory synapse maintenance in ventral hippocampal circuits by Neurexin2α ligand Vstm2b.",
+      "journal": "Nat Commun",
+      "date_reported": "2026-11-03",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.10.29.762942",
+      "pmid": null,
+      "title": "In-vivo MRI of noradrenergic and dopaminergic nuclei predicts future cognition and Alzheimers disease progression",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.02.26366824",
+      "pmid": null,
+      "title": "Clinically Meaningful Cognitive Improvement from Intermittent Neurostimulation of the Nucleus Basalis of Meynert in Parkinson's Disease",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-03",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.30.763152",
+      "pmid": null,
+      "title": "Conformation governs cellular behaviors of LRRK2 Parkinson's disease variants",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.10.30.760220",
+      "pmid": null,
+      "title": "Autophagy activator AA-20 engages CDK5 to promote lipophagy and improve neurodegeneration-associated phenotypes",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-03",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.01.26367034",
+      "pmid": null,
+      "title": "Tau PET Braak staging across the Alzheimer Disease continuum using Flortaucipir and MK6240",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-03",
+      "section": "preprint",
+      "server": "medrxiv"
     }
   ],
-  "last_updated": "2026-11-02"
+  "last_updated": "2026-11-03"
 }
