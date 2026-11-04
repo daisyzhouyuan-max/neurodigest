@@ -47,6 +47,9 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1016/j.neuron.2026.10.003":  "2026-11-04-fig1-mito-nucleoid-aging.png",
+    "10.1093/brain/awag374":         "2026-11-04-fig2-hd-fetal-striatum.png",
+    "10.1093/brain/awag228":         "2026-11-04-fig3-flna-psp-dopamine.png",
     "10.1038/s41593-026-02500-z":    "2026-11-03-fig1-psilocybin-replication.png",
     "10.1212/WNL.0000000000218685":  "2026-11-03-fig2-ptau217-asyn-ad.png",
     "10.1002/ana.78362":             "2026-11-03-fig3-gba1-pd-cognition.png",
