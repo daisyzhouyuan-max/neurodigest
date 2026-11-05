@@ -7338,7 +7338,79 @@
    "date_reported": "2026-11-04",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.05.20.26353696",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+   "journal": "medrxiv",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.64898/2026.09.10.750773",
+   "pmid": null,
+   "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+   "journal": "bioRxiv",
+   "date_reported": "2026-09-14",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.04.07.26350339",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": null,
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.03.26367164",
+   "pmid": null,
+   "title": "CSF PrP-amyloid seeding predicts clinical onset in inherited prion disease",
+   "journal": "medRxiv",
+   "date_reported": "2026-11-05",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.03.764025",
+   "pmid": null,
+   "title": "FGF signaling induces disease-associated oligodendrocyte states and drives myelin pathology",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-05",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.30.763135",
+   "pmid": null,
+   "title": "Disrupted mannosidase enzymes in C9orf72 ALS/FTD",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-05",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.02.763789",
+   "pmid": null,
+   "title": "Disentangling Context-Specific Alzheimer's Disease Progression Signatures through an Explainable AI Framework",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-05",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.03.764096",
+   "pmid": null,
+   "title": "Monoaminergic changes are associated with impaired neurogenesis along the longitudinal axis of the hippocampus in ageing and dementia",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-05",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-11-04"
+ "last_updated": "2026-11-05"
 }
