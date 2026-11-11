@@ -7671,7 +7671,159 @@
    "section": "preprint",
    "server": "medrxiv",
    "date_reported": "2026-11-10"
+  },
+  {
+   "doi": "10.1186/s12883-026-05426-y",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+   "journal": "BMC Neurology",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1016/j.bbrc.2026.154679",
+   "pmid": "42826653",
+   "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+   "journal": "Biochem Biophys Res Commun",
+   "date_reported": "2026-09-14",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1016/S1474-4422(26)00357-1",
+   "pmid": "43008775",
+   "title": "Safety, tolerability, and efficacy of bepranemab in people living with prodromal-to-mild Alzheimer's disease: a randomised, double-blind, placebo-controlled, phase 2 trial.",
+   "journal": "Lancet Neurol",
+   "date_reported": "2026-11-11",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-79028-0",
+   "pmid": "43003846",
+   "title": "Two functionally distinct amyloid-β intermediates link aggregation pathways to pathology in Alzheimer's disease.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-11",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118301",
+   "pmid": "43007869",
+   "title": "Mouse APOE Christchurch protects against Aβ-induced tau and α-synuclein aggregation.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-11-11",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-79055-x",
+   "pmid": "43003872",
+   "title": "Calpain-mediated TBP cleavage disturbs neuronal AMOT-YAP1 signalling.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-11",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-78418-8",
+   "pmid": "43003834",
+   "title": "Serine-65 phosphorylated ubiquitin associates with soluble tau and seeding activity in Alzheimer's disease.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-11",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-77651-5",
+   "pmid": "43003833",
+   "title": "Single-cell machine learning uncovers genetically anchored, cell-type specific programs of Alzheimer's disease.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-11",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218766",
+   "pmid": "43008257",
+   "title": "Evaluating Age-Related Motor System Changes Using Gait as a Functionally Relevant Marker.",
+   "journal": "Neurology",
+   "date_reported": "2026-11-11",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218756",
+   "pmid": "43008259",
+   "title": "Factors Associated With Rate of Multiple Sclerosis Onset in a Cohort With Prior Infectious Mononucleosis Identified in Administrative Data.",
+   "journal": "Neurology",
+   "date_reported": "2026-11-11",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70603",
+   "pmid": "43004558",
+   "title": "Blood-Based Lipid Peroxidation and Ferroptosis-Related Markers in Friedreich's Ataxia.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-11-11",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218783",
+   "pmid": "43008255",
+   "title": "Performance of Diagnostic Criteria for Autoimmune Encephalitis in Patients With Suspected Rapidly Progressive Dementia.",
+   "journal": "Neurology",
+   "date_reported": "2026-11-11",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.11.09.765359",
+   "pmid": null,
+   "title": "Reprogramming transcription factor networks with a HOX inhibitor to address Huntington's disease biology beyond mutant huntingtin",
+   "journal": null,
+   "date_reported": "2026-11-11",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.09.765393",
+   "pmid": null,
+   "title": "Pharmaco-genetic evidence of presymptomatic lysosomal dysfunction coupled to detrimental DPR secretion in Drosophila Models of C9orf72-linked ALS/FTD.",
+   "journal": null,
+   "date_reported": "2026-11-11",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.09.765339",
+   "pmid": null,
+   "title": "Beyond organ age gaps: comparing plasma proteomic metrics of organ biology in relation to brain structure and neurodegenerative disease.",
+   "journal": null,
+   "date_reported": "2026-11-11",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.01.30.702902",
+   "pmid": null,
+   "title": "Sex differences in astrocytic reactivity and its association with cognitive decline in cognitively unimpaired older adults",
+   "journal": null,
+   "date_reported": "2026-11-11",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.08.26365143",
+   "pmid": null,
+   "title": "Serum brain-derived tau distinguishes acute neurotrauma diagnoses",
+   "journal": null,
+   "date_reported": "2026-11-11",
+   "section": "preprint",
+   "server": "medrxiv"
   }
  ],
- "last_updated": "2026-11-10"
+ "last_updated": "2026-11-11"
 }

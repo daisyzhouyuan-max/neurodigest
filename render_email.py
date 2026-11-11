@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1016/S1474-4422(26)00357-1": "2026-11-11-fig1-bepranemab.png",
+    "10.1038/s41467-026-79028-0":    "2026-11-11-fig2-abeta-intermediates.png",
+    "10.1016/j.celrep.2026.118301":  "2026-11-11-fig3-apoe-christchurch.png",
+    "10.1038/s41467-026-79055-x":    "2026-11-11-fig4-sca17-tbp.png",
+    "10.1038/s41467-026-78418-8":    "2026-11-11-fig5-ps65ub-tau.png",
     "10.1016/j.neuron.2026.10.011":  "2026-11-10-fig1-mfge8.png",
     "10.1186/s13024-026-00980-y":    "2026-11-10-fig2-av1959r.png",
     "10.1038/s41467-026-78396-x":    "2026-11-10-fig3-crest.png",
