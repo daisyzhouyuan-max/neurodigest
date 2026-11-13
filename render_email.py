@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1016/j.cell.2026.09.014":    "2026-11-13-fig1-macaque-lifespan.png",
+    "10.1093/brain/awag391":         "2026-11-13-fig2-als-cellcycle.png",
+    "10.1016/j.cell.2026.10.040":    "2026-11-13-fig3-dopamine-play.png",
+    "10.1016/j.neuron.2026.10.017":  "2026-11-13-fig4-plpro-trpa1.png",
+    "10.1016/j.celrep.2026.118132":  "2026-11-13-fig5-aadc-aav-pd.png",
     "10.1038/s41586-026-11256-2":    "2026-11-12-fig1-unc13a-tdp43.png",
     "10.1016/j.cell.2026.10.039":    "2026-11-12-fig2-bbb-apoa1.png",
     "10.1126/scitranslmed.aec1215":  "2026-11-12-fig3-pd-slow-waves.png",
