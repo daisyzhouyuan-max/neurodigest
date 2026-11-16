@@ -8381,7 +8381,159 @@
       "date_reported": "2026-11-13",
       "section": "preprint",
       "server": "medrxiv"
+    },
+    {
+      "doi": "10.1186/s12883-026-05426-y",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "BMC Neurology",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154679",
+      "pmid": "42826653",
+      "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+      "journal": "Biochemical and Biophysical Research Communications",
+      "date_reported": "2026-09-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1038/s43587-026-01270-4",
+      "pmid": "43026299",
+      "title": "The aging human brain exhibits reduced hemodynamic and cerebrospinal fluid flow waves during sleep.",
+      "journal": "Nat Aging",
+      "date_reported": "2026-11-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1126/sciadv.aee4760",
+      "pmid": "43024710",
+      "title": "Single-nucleus multiomic profiling uncovers epigenetic dysregulation driving hippocampal vulnerability in Alzheimer's disease.",
+      "journal": "Sci Adv",
+      "date_reported": "2026-11-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag405",
+      "pmid": "43025440",
+      "title": "Guam disease features chronic traumatic encephalopathy-like tau seeds in brain and spinal cord.",
+      "journal": "Brain",
+      "date_reported": "2026-11-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02504-9",
+      "pmid": "43026327",
+      "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-11-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71983",
+      "pmid": "43026196",
+      "title": "Prognostic value of plasma brain-derived phosphorylated Tau.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-16",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71985",
+      "pmid": "43026203",
+      "title": "Tau ubiquitination and phosphorylation in relation to Alzheimer's disease in older adults.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71981",
+      "pmid": "43026462",
+      "title": "Tau conveys intrinsic hyperactivity of VTA dopamine neurons but an inability to sustain burst firing.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/mds.70602",
+      "pmid": "43036148",
+      "title": "Cortical Macro- and Microstructural Alterations in Multiple System Atrophy and Their Clinical Correlates.",
+      "journal": "Mov Disord",
+      "date_reported": "2026-11-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1186/s13024-026-00985-7",
+      "pmid": "43021380",
+      "title": "Disentangling the role of adaptive immunity in Alzheimer's disease.",
+      "journal": "Mol Neurodegener",
+      "date_reported": "2026-11-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.72005",
+      "pmid": "43026650",
+      "title": "Caregiver well-being after multisite implementation of the Care Ecosystem.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-16",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.11.13.766444",
+      "pmid": null,
+      "title": "E2F4 gene therapy reverses established synaptic and cognitive deficits and remodels learning-associated signaling in Alzheimer's disease mice",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.12.766141",
+      "pmid": null,
+      "title": "The adaptor protein DAB2 cell-autonomously links APOE with disease-associated microglia (DAM)/TREM2 state dysregulation associated with Alzheimer's disease",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.13.26367865",
+      "pmid": null,
+      "title": "PSEN1 loss-of-function variants do not cause early-onset Alzheimer's disease",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-16",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.12.766120",
+      "pmid": null,
+      "title": "Excitatory neurons downregulate synaptic proteins before motor onset and glia reduce neuronal support in Huntington disease mice",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-16",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.13.26367931",
+      "pmid": null,
+      "title": "Wearable-based sleep and activity tracking detects Parkinson's disease and associated pathological hallmarks",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-16",
+      "section": "preprint",
+      "server": "medrxiv"
     }
   ],
-  "last_updated": "2026-11-13"
+  "last_updated": "2026-11-16"
 }
