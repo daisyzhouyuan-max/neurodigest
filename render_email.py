@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1038/s41586-026-11305-w":    "2026-11-19-fig1-hypothalamus-ad.png",
+    "10.1038/s43587-026-01259-z":    "2026-11-19-fig2-ptau217-plasma.png",
+    "10.1016/S1474-4422(26)00336-4": "2026-11-19-fig3-edaravone-als.png",
+    "10.1126/scitranslmed.adz9823":  "2026-11-19-fig4-ttis-vmpfc.png",
+    "10.1126/scitranslmed.aej2067":  "2026-11-19-fig5-ga1-sirna.png",
     "10.1038/s41591-026-04759-y":    "2026-11-18-fig1-generational-dementia.png",
     "10.1016/j.immuni.2026.10.014":  "2026-11-18-fig2-bam-circadian-amyloid.png",
     "10.1038/s41593-026-02505-8":    "2026-11-18-fig3-microglia-myelin-memory.png",
