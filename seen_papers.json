@@ -9045,7 +9045,183 @@
    "date_reported": "2026-11-19",
    "section": "preprint",
    "server": "medrxiv"
+  },
+  {
+   "doi": "10.1186/s12883-026-05426-y",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+   "journal": "BMC Neurology",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1016/j.bbrc.2026.154679",
+   "pmid": 42826653,
+   "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph.",
+   "journal": "Biochemical and Biophysical Research Communications",
+   "date_reported": "2026-09-14",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.07.057",
+   "pmid": "43057230",
+   "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism.",
+   "journal": "Cell",
+   "date_reported": "2026-11-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.10.046",
+   "pmid": "43057229",
+   "title": "Myelin pathology is a key feature of X-linked dystonia-parkinsonism.",
+   "journal": "Cell",
+   "date_reported": "2026-11-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.cell.2026.10.044",
+   "pmid": "43057228",
+   "title": "CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis.",
+   "journal": "Cell",
+   "date_reported": "2026-11-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1126/science.aef8963",
+   "pmid": "43056455",
+   "title": "A neural code for generative speech production in human Wernicke's area.",
+   "journal": "Science",
+   "date_reported": "2026-11-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1186/s13024-026-00988-4",
+   "pmid": "43058821",
+   "title": "GFAP upregulation by astrocytes attenuates tau neurofibrillary tangle pathology in a mouse model of tauopathy.",
+   "journal": "Mol Neurodegener",
+   "date_reported": "2026-11-20",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.10.024",
+   "pmid": "43057232",
+   "title": "The neural mechanisms of fast versus slow decision-making.",
+   "journal": "Neuron",
+   "date_reported": "2026-11-20",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.adx5757",
+   "pmid": "43056454",
+   "title": "A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress.",
+   "journal": "Science",
+   "date_reported": "2026-11-20",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1126/science.aee8018",
+   "pmid": "43056446",
+   "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation.",
+   "journal": "Science",
+   "date_reported": "2026-11-20",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1186/s13024-026-00987-5",
+   "pmid": "43053204",
+   "title": "Neurobiological correlates of longitudinal grey matter volume changes in preclinical Alzheimer's disease.",
+   "journal": "Mol Neurodegener",
+   "date_reported": "2026-11-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1016/j.celrep.2026.118362",
+   "pmid": "43056236",
+   "title": "Reinforced hippocampus-accumbens pathway marks a shift toward cognitive decline in aging.",
+   "journal": "Cell Rep",
+   "date_reported": "2026-11-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1212/WNL.0000000000218786",
+   "pmid": "43056657",
+   "title": "Relative Pericentral Tau Distribution in Cerebral Amyloid Angiopathy Compared With Alzheimer Disease.",
+   "journal": "Neurology",
+   "date_reported": "2026-11-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.72021",
+   "pmid": "43059509",
+   "title": "Biomarker-informed differences in treatment-associated cognitive decline in dementia with Lewy bodies.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-11-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1186/s13024-026-00989-3",
+   "pmid": "43053093",
+   "title": "Iron dysregulation: implications for pathology in multiple sclerosis.",
+   "journal": "Mol Neurodegener",
+   "date_reported": "2026-11-20",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1101/2025.06.18.660098",
+   "pmid": null,
+   "title": "Multi-omic guided iPSC dopaminergic differentiation leads to selective enrichment of PD-vulnerable SOX6+ midbrain neurons with motor recovery of PD models after transplantation",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.14.766631",
+   "pmid": null,
+   "title": "Evolutionarily conserved coupling of lysosomal response sensing and disease-associated microglial reprogramming scales with pathological timescales",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.17.26368344",
+   "pmid": null,
+   "title": "Distinct Relaxation Kurtosis Imaging-Derived White Matter Microstructural Phenotypes Tracking Alzheimer's Disease Pathology and Cognitive Decline",
+   "journal": "medRxiv",
+   "date_reported": "2026-11-20",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.01.763492",
+   "pmid": null,
+   "title": "Lipidome of Compact Myelin from Cortical Regions of the Aging Murine Brain",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-20",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.17.767360",
+   "pmid": null,
+   "title": "Body-wide microbial ecosystem reorganization across the cognitive impairment spectrum in Parkinsons disease",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-20",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-11-19"
+ "last_updated": "2026-11-20"
 }

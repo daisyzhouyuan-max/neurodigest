@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1016/j.cell.2026.07.057":    "2026-11-20-fig1-xdp-genome-writing.png",
+    "10.1016/j.cell.2026.10.046":    "2026-11-20-fig2-xdp-myelin.png",
+    "10.1016/j.cell.2026.10.044":    "2026-11-20-fig3-cart-ms.png",
+    "10.1126/science.aef8963":       "2026-11-20-fig4-wernicke-speech.png",
+    "10.1186/s13024-026-00988-4":    "2026-11-20-fig5-gfap-tau.png",
     "10.1038/s41586-026-11305-w":    "2026-11-19-fig1-hypothalamus-ad.png",
     "10.1038/s43587-026-01259-z":    "2026-11-19-fig2-ptau217-plasma.png",
     "10.1016/S1474-4422(26)00336-4": "2026-11-19-fig3-edaravone-als.png",
