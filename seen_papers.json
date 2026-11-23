@@ -9221,7 +9221,175 @@
    "date_reported": "2026-11-20",
    "section": "preprint",
    "server": "biorxiv"
+  },
+  {
+   "doi": "10.1186/s12883-026-05426-y",
+   "pmid": null,
+   "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+   "journal": "BMC Neurology",
+   "server": "medrxiv",
+   "date_reported": "2026-08-31",
+   "section": "preprint"
+  },
+  {
+   "doi": "10.1016/j.bbrc.2026.154679",
+   "pmid": "42826653",
+   "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph.",
+   "journal": "Biochemical and biophysical research communications",
+   "date_reported": "2026-09-14",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.1038/s41598-026-69898-1",
+   "pmid": null,
+   "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+   "journal": "Scientific Reports",
+   "date_reported": "2026-09-01",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.1093/brain/awag396",
+   "pmid": "43066526",
+   "title": "Cerebellar optogenetic stimulation restores motor cortex activity and behaviour after stroke.",
+   "journal": "Brain",
+   "date_reported": "2026-11-23",
+   "section": "top"
+  },
+  {
+   "doi": "10.1002/alz.71995",
+   "pmid": "43067690",
+   "title": "Longitudinal plasma proteomic signatures following lecanemab treatment in patients with Alzheimer's disease.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-11-23",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.10.023",
+   "pmid": "43067349",
+   "title": "Disrupting a cargo receptor entrapment complex is a therapeutic node for distinct proteinopathies.",
+   "journal": "Neuron",
+   "date_reported": "2026-11-23",
+   "section": "top"
+  },
+  {
+   "doi": "10.1038/s41467-026-79754-5",
+   "pmid": "43064719",
+   "title": "ER-associated biogenesis of PINK1 preprotein for neuronal mitophagy.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-23",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/S1474-4422(26)00366-2",
+   "pmid": "43063957",
+   "title": "Anticoagulants compared with aspirin in patients with embolic strokes of undetermined source: an individual participant data meta-analysis of randomised trials.",
+   "journal": "Lancet Neurol",
+   "date_reported": "2026-11-23",
+   "section": "top"
+  },
+  {
+   "doi": "10.1016/j.neuron.2026.10.016",
+   "pmid": "43063940",
+   "title": "Spectral envelopes of facial movements predict intention, cortical representations, and neural prosthetic control.",
+   "journal": "Neuron",
+   "date_reported": "2026-11-23",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1016/j.stem.2026.10.018",
+   "pmid": "43063938",
+   "title": "Human cardiac organoids innervated by autonomic neurons using a mixoid approach model myocardial infarction under hypoxia.",
+   "journal": "Cell Stem Cell",
+   "date_reported": "2026-11-23",
+   "section": "tier_a"
+  },
+  {
+   "doi": "10.1038/s41467-026-79485-7",
+   "pmid": "43069341",
+   "title": "Heparan sulfate sulfatases are essential for the patterning of human stem cell-derived midbrain dopaminergic neurons.",
+   "journal": "Nat Commun",
+   "date_reported": "2026-11-23",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70608",
+   "pmid": "43068882",
+   "title": "Targeted High-Fidelity Sequencing Identifies CCG Interruptions as Critical Determinants of Spinocerebellar Ataxia Type 8 Pathogenicity.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-11-23",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/alz.71987",
+   "pmid": "43058971",
+   "title": "Ancestry-specific effects of apolipoprotein E on Alzheimer's disease endophenotypes.",
+   "journal": "Alzheimers Dement",
+   "date_reported": "2026-11-23",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1126/sciadv.aeg4194",
+   "pmid": "43063262",
+   "title": "Clearance of erythrocytes after subarachnoid hemorrhage: Cranial lymphatic and dural pathways.",
+   "journal": "Sci Adv",
+   "date_reported": "2026-11-23",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.1002/mds.70604",
+   "pmid": "43061766",
+   "title": "Investigation of Parkinsonism-Associated Genes in a Large Cohort of Individuals with Early-Onset or Familial Predominant Parkinsonism.",
+   "journal": "Mov Disord",
+   "date_reported": "2026-11-23",
+   "section": "tier_b"
+  },
+  {
+   "doi": "10.64898/2026.11.20.767890",
+   "pmid": null,
+   "title": "A GPNMB-associated lysosomal program tracks neurodegeneration across the DAM continuum",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-23",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.19.767760",
+   "pmid": null,
+   "title": "Early locus coeruleus tauopathy features potassium channel dysfunction and is attenuated by Kv7 activation",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-23",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.20.766782",
+   "pmid": null,
+   "title": "Identification of a human Anxa1-associated dopaminergic population linked to Parkinson's disease vulnerability and sensorimotor putaminal networks",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-23",
+   "section": "preprint",
+   "server": "biorxiv"
+  },
+  {
+   "doi": "10.64898/2026.11.15.26368153",
+   "pmid": null,
+   "title": "Amyotrophic lateral sclerosis progression is tracked in plasma by systemic proteins independent of motor neurons",
+   "journal": "medRxiv",
+   "date_reported": "2026-11-23",
+   "section": "preprint",
+   "server": "medrxiv"
+  },
+  {
+   "doi": "10.64898/2026.10.28.762617",
+   "pmid": null,
+   "title": "An atlas of the aging glycoproteome reveals how glycosylation modulates autoantibody binding in the brain",
+   "journal": "bioRxiv",
+   "date_reported": "2026-11-23",
+   "section": "preprint",
+   "server": "biorxiv"
   }
  ],
- "last_updated": "2026-11-20"
+ "last_updated": "2026-11-23"
 }

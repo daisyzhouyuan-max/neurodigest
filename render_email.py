@@ -47,6 +47,11 @@ PREPRINT_TAG = "[PREPRINT — NOT PEER REVIEWED]"
 FIG_BASE = ("https://raw.githubusercontent.com/daisyzhouyuan-max/"
             "neurodigest/main/figures/")
 FIGURES = {
+    "10.1093/brain/awag396":         "2026-11-23-fig1-cerebellar-stroke.png",
+    "10.1002/alz.71995":             "2026-11-23-fig2-lecanemab-proteomics.png",
+    "10.1016/j.neuron.2026.10.023":  "2026-11-23-fig3-tmed-entrapment.png",
+    "10.1038/s41467-026-79754-5":    "2026-11-23-fig4-pink1-er-biogenesis.png",
+    "10.1016/S1474-4422(26)00366-2": "2026-11-23-fig5-esus-anticoagulation.png",
     "10.1016/j.cell.2026.07.057":    "2026-11-20-fig1-xdp-genome-writing.png",
     "10.1016/j.cell.2026.10.046":    "2026-11-20-fig2-xdp-myelin.png",
     "10.1016/j.cell.2026.10.044":    "2026-11-20-fig3-cart-ms.png",
