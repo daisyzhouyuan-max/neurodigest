@@ -9552,7 +9552,167 @@
       "date_reported": "2026-11-24",
       "section": "preprint",
       "server": "biorxiv"
+    },
+    {
+      "doi": "10.1186/s12883-026-05426-y",
+      "pmid": null,
+      "title": "PD GENEration: An International Parkinson's Disease Genetic Research Study",
+      "journal": "BMC Neurology",
+      "server": "medrxiv",
+      "date_reported": "2026-08-31",
+      "section": "preprint"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154679",
+      "pmid": "42826653",
+      "title": "Structural heterogeneity of CTE Type I tau filaments with an interface-shifted polymorph",
+      "journal": "Biochem Biophys Res Commun",
+      "date_reported": "2026-09-14",
+      "section": "preprint",
+      "server": "biorxiv"
+    },
+    {
+      "doi": "10.1038/s41598-026-69898-1",
+      "pmid": null,
+      "title": "Meta-analysis of glucose metabolism across Alzheimer's, Parkinson's and ALS reveals distinct patterns of cortical hypometabolism versus subcortical hypermetabolism with disease-specific spatial signatures",
+      "journal": "Scientific Reports",
+      "date_reported": "2026-09-01",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.1016/j.neuron.2026.10.028",
+      "pmid": "43078095",
+      "title": "Repetitive levodopa treatment drives cell-type-specific striatal adaptations associated with progressive dyskinesia in parkinsonian mice.",
+      "journal": "Neuron",
+      "date_reported": "2026-11-25",
+      "section": "top"
+    },
+    {
+      "doi": "10.1093/brain/awag403",
+      "pmid": "43076871",
+      "title": "Motor neuron disease due to a novel PIK3R1 mutation.",
+      "journal": "Brain",
+      "date_reported": "2026-11-25",
+      "section": "top"
+    },
+    {
+      "doi": "10.1002/alz.71988",
+      "pmid": "43079858",
+      "title": "The niacin receptor HCAR2 is protective across early and advanced stages of amyloid pathology.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-25",
+      "section": "top"
+    },
+    {
+      "doi": "10.1073/pnas.2631665123",
+      "pmid": "43077504",
+      "title": "Glycosaminoglycans in the structures of Aβ42 amyloid fibrils purified from mouse brains.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-11-25",
+      "section": "top"
+    },
+    {
+      "doi": "10.1212/WNL.0000000000218792",
+      "pmid": "43077655",
+      "title": "Cancer Incidence After Parkinson Disease: A Nationwide Multi-Cohort Study With Genetic Analyses.",
+      "journal": "Neurology",
+      "date_reported": "2026-11-25",
+      "section": "top"
+    },
+    {
+      "doi": "10.1038/s41593-026-02520-9",
+      "pmid": "43079064",
+      "title": "Highly selective visual circuits in mouse frontal cortex.",
+      "journal": "Nat Neurosci",
+      "date_reported": "2026-11-25",
+      "section": "tier_a"
+    },
+    {
+      "doi": "10.1002/alz.72031",
+      "pmid": "43080064",
+      "title": "Blood proteome profiling of mild cognitive impairment identifies novel biomarkers for multi-pathway Alzheimer's assessment and cognitive decline prediction.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-25",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71952",
+      "pmid": "43075952",
+      "title": "Real-world comparison of lecanemab and donanemab in Alzheimer's disease.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-25",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1073/pnas.2606418123",
+      "pmid": "43077490",
+      "title": "Beyond blood ammonia: Intestinal ammonia emerges as an early microbial driver of mild cognitive impairment.",
+      "journal": "Proc Natl Acad Sci U S A",
+      "date_reported": "2026-11-25",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/ana.78408",
+      "pmid": "43079749",
+      "title": "Plasma Metabolic Proteomics Links Phenoconversion and Disease-Specific Brain 18F-fluorodeoxyglucose Positron Emission Tomography Pattern Expressions in Isolated REM Sleep Behavior Disorder.",
+      "journal": "Ann Neurol",
+      "date_reported": "2026-11-25",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.1002/alz.71963",
+      "pmid": "43079735",
+      "title": "Circulating TIMP2 associates with brain health and lifestyle factors.",
+      "journal": "Alzheimers Dement",
+      "date_reported": "2026-11-25",
+      "section": "tier_b"
+    },
+    {
+      "doi": "10.64898/2026.11.24.26368659",
+      "pmid": null,
+      "title": "Parkinson's disease-associated LRRK2 armadillo domain variants enhance kinase pathway activity through a Rab-binding site-dependent mechanism",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-25",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.07.20.26358511",
+      "pmid": null,
+      "title": "A proteomic signature for prognostic stratification in amyotrophic lateral sclerosis",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-25",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.16.26368132",
+      "pmid": null,
+      "title": "Disease-specific versus symptom-specific neuroimaging phenotypes across Alzheimer's Disease, Parkinson's Disease, and Small Vessel Disease",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-25",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.22.26368682",
+      "pmid": null,
+      "title": "Plasma proteomic markers of cognitive and brain aging in a multi-ethnic cohort",
+      "journal": "medrxiv",
+      "date_reported": "2026-11-25",
+      "section": "preprint",
+      "server": "medrxiv"
+    },
+    {
+      "doi": "10.64898/2026.11.23.768516",
+      "pmid": null,
+      "title": "An AI agent guides a pipeline for selective protein interaction inhibitors from discovery across targets to preclinical evaluation",
+      "journal": "biorxiv",
+      "date_reported": "2026-11-25",
+      "section": "preprint",
+      "server": "biorxiv"
     }
   ],
-  "last_updated": "2026-11-24"
+  "last_updated": "2026-11-25"
 }
